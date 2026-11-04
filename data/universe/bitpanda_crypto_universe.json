@@ -1,0 +1,4859 @@
+{
+  "source": "https://api.bitpanda.com/v1/ticker",
+  "source_notes": "Public Bitpanda ticker (no API key). Metals excluded. Crypto confirmed via CoinGecko /coins/list symbol match.",
+  "quote": "USDT",
+  "core_holdings": [
+    "BTC/USDT",
+    "ETH/USDT"
+  ],
+  "assets": [
+    {
+      "symbol": "0G",
+      "coingecko_id": "zero-gravity",
+      "name": "0G",
+      "pair": "0G/USDT"
+    },
+    {
+      "symbol": "1INCH",
+      "coingecko_id": "1inch",
+      "name": "1INCH",
+      "pair": "1INCH/USDT"
+    },
+    {
+      "symbol": "2Z",
+      "coingecko_id": "doublezero",
+      "name": "DoubleZero",
+      "pair": "2Z/USDT"
+    },
+    {
+      "symbol": "A",
+      "coingecko_id": "vaulta",
+      "name": "Vaulta",
+      "pair": "A/USDT"
+    },
+    {
+      "symbol": "A2Z",
+      "coingecko_id": "arena-z",
+      "name": "Arena-Z",
+      "pair": "A2Z/USDT"
+    },
+    {
+      "symbol": "A8",
+      "coingecko_id": "ancient8",
+      "name": "Ancient8",
+      "pair": "A8/USDT"
+    },
+    {
+      "symbol": "AAVE",
+      "coingecko_id": "aave",
+      "name": "Aave",
+      "pair": "AAVE/USDT"
+    },
+    {
+      "symbol": "AAX",
+      "coingecko_id": "alcoa-xstock",
+      "name": "Alcoa xStock",
+      "pair": "AAX/USDT"
+    },
+    {
+      "symbol": "AB",
+      "coingecko_id": "abrlien",
+      "name": "Abrlien",
+      "pair": "AB/USDT"
+    },
+    {
+      "symbol": "ACA",
+      "coingecko_id": "acala",
+      "name": "Acala",
+      "pair": "ACA/USDT"
+    },
+    {
+      "symbol": "ACE",
+      "coingecko_id": "ace-data-cloud-2",
+      "name": "Ace Data Cloud",
+      "pair": "ACE/USDT"
+    },
+    {
+      "symbol": "ACH",
+      "coingecko_id": "alchemy-pay",
+      "name": "Alchemy Pay",
+      "pair": "ACH/USDT"
+    },
+    {
+      "symbol": "ACM",
+      "coingecko_id": "ac-milan-fan-token",
+      "name": "AC Milan Fan Token",
+      "pair": "ACM/USDT"
+    },
+    {
+      "symbol": "ACN",
+      "coingecko_id": "solidus-aitech",
+      "name": "AITECH Cloud Network",
+      "pair": "ACN/USDT"
+    },
+    {
+      "symbol": "ACT",
+      "coingecko_id": "acet-token",
+      "name": "Acet",
+      "pair": "ACT/USDT"
+    },
+    {
+      "symbol": "ACU",
+      "coingecko_id": "acurast",
+      "name": "Acurast",
+      "pair": "ACU/USDT"
+    },
+    {
+      "symbol": "ACX",
+      "coingecko_id": "across-protocol",
+      "name": "Across Protocol",
+      "pair": "ACX/USDT"
+    },
+    {
+      "symbol": "ADA",
+      "coingecko_id": "ada-the-dog",
+      "name": "TOLY'S DOG",
+      "pair": "ADA/USDT"
+    },
+    {
+      "symbol": "ADI",
+      "coingecko_id": "adi-token",
+      "name": "ADI",
+      "pair": "ADI/USDT"
+    },
+    {
+      "symbol": "ADS",
+      "coingecko_id": "adshares",
+      "name": "Adshares",
+      "pair": "ADS/USDT"
+    },
+    {
+      "symbol": "ADX",
+      "coingecko_id": "adex",
+      "name": "heyAura",
+      "pair": "ADX/USDT"
+    },
+    {
+      "symbol": "AERGO",
+      "coingecko_id": "aergo",
+      "name": "Aergo [OLD]",
+      "pair": "AERGO/USDT"
+    },
+    {
+      "symbol": "AERO",
+      "coingecko_id": "aero",
+      "name": "Aero",
+      "pair": "AERO/USDT"
+    },
+    {
+      "symbol": "AEVO",
+      "coingecko_id": "aevo-exchange",
+      "name": "Aevo",
+      "pair": "AEVO/USDT"
+    },
+    {
+      "symbol": "AGENT",
+      "coingecko_id": "agentlayer",
+      "name": "AgentLayer",
+      "pair": "AGENT/USDT"
+    },
+    {
+      "symbol": "AGI",
+      "coingecko_id": "agi-cult",
+      "name": "AGI cult",
+      "pair": "AGI/USDT"
+    },
+    {
+      "symbol": "AGIX",
+      "coingecko_id": "singularitynet",
+      "name": "SingularityNET",
+      "pair": "AGIX/USDT"
+    },
+    {
+      "symbol": "AGLD",
+      "coingecko_id": "adventure-gold",
+      "name": "Adventure Gold",
+      "pair": "AGLD/USDT"
+    },
+    {
+      "symbol": "AI",
+      "coingecko_id": "ai-community",
+      "name": "AI Community",
+      "pair": "AI/USDT"
+    },
+    {
+      "symbol": "AI16Z",
+      "coingecko_id": "ai16z",
+      "name": "ai16z",
+      "pair": "AI16Z/USDT"
+    },
+    {
+      "symbol": "AIC",
+      "coingecko_id": "aetherius-infinite-chain",
+      "name": "Aetherius Infinite Chain",
+      "pair": "AIC/USDT"
+    },
+    {
+      "symbol": "AIN",
+      "coingecko_id": "ainalyst",
+      "name": "AInalyst",
+      "pair": "AIN/USDT"
+    },
+    {
+      "symbol": "AIOZ",
+      "coingecko_id": "aioz-network",
+      "name": "AIOZ Network",
+      "pair": "AIOZ/USDT"
+    },
+    {
+      "symbol": "AIT",
+      "coingecko_id": "aimalls",
+      "name": "AiMalls",
+      "pair": "AIT/USDT"
+    },
+    {
+      "symbol": "AIXBT",
+      "coingecko_id": "aixbt",
+      "name": "aixbt",
+      "pair": "AIXBT/USDT"
+    },
+    {
+      "symbol": "AKITA",
+      "coingecko_id": "akita-inu",
+      "name": "Akita Inu [OLD]",
+      "pair": "AKITA/USDT"
+    },
+    {
+      "symbol": "AKT",
+      "coingecko_id": "akash-network",
+      "name": "Akash Network",
+      "pair": "AKT/USDT"
+    },
+    {
+      "symbol": "ALCH",
+      "coingecko_id": "alchemist-ai",
+      "name": "Alchemist AI",
+      "pair": "ALCH/USDT"
+    },
+    {
+      "symbol": "ALGO",
+      "coingecko_id": "algorand",
+      "name": "Algorand",
+      "pair": "ALGO/USDT"
+    },
+    {
+      "symbol": "ALICE",
+      "coingecko_id": "alice-2",
+      "name": "Alice",
+      "pair": "ALICE/USDT"
+    },
+    {
+      "symbol": "ALKIMI",
+      "coingecko_id": "alkimi-2",
+      "name": "ALKIMI",
+      "pair": "ALKIMI/USDT"
+    },
+    {
+      "symbol": "ALLO",
+      "coingecko_id": "allora",
+      "name": "Allora",
+      "pair": "ALLO/USDT"
+    },
+    {
+      "symbol": "ALPHA",
+      "coingecko_id": "alpha-3",
+      "name": "Reject Modernity",
+      "pair": "ALPHA/USDT"
+    },
+    {
+      "symbol": "ALPINE",
+      "coingecko_id": "alpine-f1-team-fan-token",
+      "name": "Alpine F1 Team Fan Token",
+      "pair": "ALPINE/USDT"
+    },
+    {
+      "symbol": "ALT",
+      "coingecko_id": "alitas",
+      "name": "Alitas",
+      "pair": "ALT/USDT"
+    },
+    {
+      "symbol": "ANIME",
+      "coingecko_id": "a-new-internet-money-era",
+      "name": "A New Internet Money Era",
+      "pair": "ANIME/USDT"
+    },
+    {
+      "symbol": "ANKR",
+      "coingecko_id": "ankr",
+      "name": "Ankr Network",
+      "pair": "ANKR/USDT"
+    },
+    {
+      "symbol": "ANT",
+      "coingecko_id": "all-inx",
+      "name": "All InX",
+      "pair": "ANT/USDT"
+    },
+    {
+      "symbol": "APE",
+      "coingecko_id": "ape-3",
+      "name": "Ape",
+      "pair": "APE/USDT"
+    },
+    {
+      "symbol": "API3",
+      "coingecko_id": "api3",
+      "name": "Api3",
+      "pair": "API3/USDT"
+    },
+    {
+      "symbol": "APP",
+      "coingecko_id": "applovin-corporation-robinhood-token",
+      "name": "Applovin Corporation \u2022 Robinhood Token",
+      "pair": "APP/USDT"
+    },
+    {
+      "symbol": "APT",
+      "coingecko_id": "aptos",
+      "name": "Aptos",
+      "pair": "APT/USDT"
+    },
+    {
+      "symbol": "APU",
+      "coingecko_id": "apu",
+      "name": "APU",
+      "pair": "APU/USDT"
+    },
+    {
+      "symbol": "AR",
+      "coingecko_id": "arweave",
+      "name": "Arweave",
+      "pair": "AR/USDT"
+    },
+    {
+      "symbol": "ARB",
+      "coingecko_id": "arbitrage-loop",
+      "name": "Arbitrage Loop",
+      "pair": "ARB/USDT"
+    },
+    {
+      "symbol": "ARKM",
+      "coingecko_id": "arkham",
+      "name": "Arkham",
+      "pair": "ARKM/USDT"
+    },
+    {
+      "symbol": "ARPA",
+      "coingecko_id": "arpa",
+      "name": "ARPA",
+      "pair": "ARPA/USDT"
+    },
+    {
+      "symbol": "ARTY",
+      "coingecko_id": "artyfact",
+      "name": "Artyfact",
+      "pair": "ARTY/USDT"
+    },
+    {
+      "symbol": "ASP",
+      "coingecko_id": "aspecta",
+      "name": "Aspecta",
+      "pair": "ASP/USDT"
+    },
+    {
+      "symbol": "ASR",
+      "coingecko_id": "as-roma-fan-token",
+      "name": "AS Roma Fan Token",
+      "pair": "ASR/USDT"
+    },
+    {
+      "symbol": "AST",
+      "coingecko_id": "airswap",
+      "name": "AirSwap",
+      "pair": "AST/USDT"
+    },
+    {
+      "symbol": "ASTER",
+      "coingecko_id": "aster-2",
+      "name": "Aster",
+      "pair": "ASTER/USDT"
+    },
+    {
+      "symbol": "ASTR",
+      "coingecko_id": "astar",
+      "name": "Astar",
+      "pair": "ASTR/USDT"
+    },
+    {
+      "symbol": "AT",
+      "coingecko_id": "apro",
+      "name": "Apro",
+      "pair": "AT/USDT"
+    },
+    {
+      "symbol": "ATA",
+      "coingecko_id": "ata-by-virtuals",
+      "name": "ATA by Virtuals",
+      "pair": "ATA/USDT"
+    },
+    {
+      "symbol": "ATH",
+      "coingecko_id": "aethir",
+      "name": "Aethir",
+      "pair": "ATH/USDT"
+    },
+    {
+      "symbol": "ATM",
+      "coingecko_id": "all-the-money-2",
+      "name": "All The Money",
+      "pair": "ATM/USDT"
+    },
+    {
+      "symbol": "ATOM",
+      "coingecko_id": "cosmos",
+      "name": "Cosmos Hub",
+      "pair": "ATOM/USDT"
+    },
+    {
+      "symbol": "ATR",
+      "coingecko_id": "artrade",
+      "name": "Artrade",
+      "pair": "ATR/USDT"
+    },
+    {
+      "symbol": "ATWO",
+      "coingecko_id": "arena-two",
+      "name": "Arena Two",
+      "pair": "ATWO/USDT"
+    },
+    {
+      "symbol": "AUCTION",
+      "coingecko_id": "auction",
+      "name": "Bounce",
+      "pair": "AUCTION/USDT"
+    },
+    {
+      "symbol": "AUDIO",
+      "coingecko_id": "audius",
+      "name": "Audius",
+      "pair": "AUDIO/USDT"
+    },
+    {
+      "symbol": "AVA",
+      "coingecko_id": "ansem-vs-alon",
+      "name": "Ansem Vs Alon",
+      "pair": "AVA/USDT"
+    },
+    {
+      "symbol": "AVAIL",
+      "coingecko_id": "avail",
+      "name": "Avail",
+      "pair": "AVAIL/USDT"
+    },
+    {
+      "symbol": "AVAX",
+      "coingecko_id": "avalanche-2",
+      "name": "Avalanche",
+      "pair": "AVAX/USDT"
+    },
+    {
+      "symbol": "AVL",
+      "coingecko_id": "aston-villa-fan-token",
+      "name": "Aston Villa Fan Token",
+      "pair": "AVL/USDT"
+    },
+    {
+      "symbol": "AVNT",
+      "coingecko_id": "avantis",
+      "name": "Veranta",
+      "pair": "AVNT/USDT"
+    },
+    {
+      "symbol": "AWE",
+      "coingecko_id": "stp-network",
+      "name": "AWE Network",
+      "pair": "AWE/USDT"
+    },
+    {
+      "symbol": "AXL",
+      "coingecko_id": "axelar",
+      "name": "Axelar",
+      "pair": "AXL/USDT"
+    },
+    {
+      "symbol": "AXS",
+      "coingecko_id": "axie-infinity",
+      "name": "Axie Infinity",
+      "pair": "AXS/USDT"
+    },
+    {
+      "symbol": "AZERO",
+      "coingecko_id": "aleph-zero",
+      "name": "Aleph Zero",
+      "pair": "AZERO/USDT"
+    },
+    {
+      "symbol": "AZTEC",
+      "coingecko_id": "aztec",
+      "name": "Aztec",
+      "pair": "AZTEC/USDT"
+    },
+    {
+      "symbol": "B",
+      "coingecko_id": "b",
+      "name": "B",
+      "pair": "B/USDT"
+    },
+    {
+      "symbol": "B2",
+      "coingecko_id": "bsquared-network",
+      "name": "BSquared Network",
+      "pair": "B2/USDT"
+    },
+    {
+      "symbol": "BABY",
+      "coingecko_id": "a-fund-baby",
+      "name": "A Fund Baby",
+      "pair": "BABY/USDT"
+    },
+    {
+      "symbol": "BADGER",
+      "coingecko_id": "badger-badger-badger",
+      "name": "badger badger badger",
+      "pair": "BADGER/USDT"
+    },
+    {
+      "symbol": "BAKE",
+      "coingecko_id": "bakerytoken",
+      "name": "BakerySwap",
+      "pair": "BAKE/USDT"
+    },
+    {
+      "symbol": "BAL",
+      "coingecko_id": "balancer",
+      "name": "Balancer",
+      "pair": "BAL/USDT"
+    },
+    {
+      "symbol": "BAND",
+      "coingecko_id": "bandforband-fun",
+      "name": "bandforband.fun",
+      "pair": "BAND/USDT"
+    },
+    {
+      "symbol": "BARD",
+      "coingecko_id": "lombard-protocol",
+      "name": "Lombard",
+      "pair": "BARD/USDT"
+    },
+    {
+      "symbol": "BAT",
+      "coingecko_id": "basic-attention-token",
+      "name": "Basic Attention",
+      "pair": "BAT/USDT"
+    },
+    {
+      "symbol": "BB",
+      "coingecko_id": "backyard-bandwidth",
+      "name": "Backyard Bandwidth",
+      "pair": "BB/USDT"
+    },
+    {
+      "symbol": "BCH",
+      "coingecko_id": "binance-peg-bitcoin-cash",
+      "name": "Binance-Peg Bitcoin Cash",
+      "pair": "BCH/USDT"
+    },
+    {
+      "symbol": "BCUT",
+      "coingecko_id": "bitscrunch-token",
+      "name": "bitsCrunch Token",
+      "pair": "BCUT/USDT"
+    },
+    {
+      "symbol": "BDXN",
+      "coingecko_id": "bondex",
+      "name": "Bondex",
+      "pair": "BDXN/USDT"
+    },
+    {
+      "symbol": "BEER",
+      "coingecko_id": "beercoin-2",
+      "name": "Beercoin",
+      "pair": "BEER/USDT"
+    },
+    {
+      "symbol": "BEFI",
+      "coingecko_id": "befi-labs",
+      "name": "BeFi Labs",
+      "pair": "BEFI/USDT"
+    },
+    {
+      "symbol": "BEL",
+      "coingecko_id": "bella-protocol",
+      "name": "Bella Protocol",
+      "pair": "BEL/USDT"
+    },
+    {
+      "symbol": "BENDOG",
+      "coingecko_id": "ben-the-dog",
+      "name": "Ben the Dog",
+      "pair": "BENDOG/USDT"
+    },
+    {
+      "symbol": "BERA",
+      "coingecko_id": "berachain-bera",
+      "name": "Berachain",
+      "pair": "BERA/USDT"
+    },
+    {
+      "symbol": "BEST",
+      "coingecko_id": "best",
+      "name": "BEST",
+      "pair": "BEST/USDT"
+    },
+    {
+      "symbol": "BICO",
+      "coingecko_id": "biconomy",
+      "name": "Biconomy",
+      "pair": "BICO/USDT"
+    },
+    {
+      "symbol": "BIGTIME",
+      "coingecko_id": "big-time",
+      "name": "Big Time",
+      "pair": "BIGTIME/USDT"
+    },
+    {
+      "symbol": "BILL",
+      "coingecko_id": "billions-network",
+      "name": "Billions Network",
+      "pair": "BILL/USDT"
+    },
+    {
+      "symbol": "BIO",
+      "coingecko_id": "bio-protocol",
+      "name": "Bio Protocol",
+      "pair": "BIO/USDT"
+    },
+    {
+      "symbol": "BIRB",
+      "coingecko_id": "birb-2",
+      "name": "Birb",
+      "pair": "BIRB/USDT"
+    },
+    {
+      "symbol": "BLAST",
+      "coingecko_id": "blast",
+      "name": "Blast",
+      "pair": "BLAST/USDT"
+    },
+    {
+      "symbol": "BLAZE",
+      "coingecko_id": "blaze",
+      "name": "Blaze",
+      "pair": "BLAZE/USDT"
+    },
+    {
+      "symbol": "BLESS",
+      "coingecko_id": "bless-2",
+      "name": "Bless",
+      "pair": "BLESS/USDT"
+    },
+    {
+      "symbol": "BLUR",
+      "coingecko_id": "blur",
+      "name": "Blur",
+      "pair": "BLUR/USDT"
+    },
+    {
+      "symbol": "BLZ",
+      "coingecko_id": "bluzelle",
+      "name": "Bluzelle",
+      "pair": "BLZ/USDT"
+    },
+    {
+      "symbol": "BMT",
+      "coingecko_id": "bitcoin-maxi-tears-2",
+      "name": "Bitcoin Maxi Tears",
+      "pair": "BMT/USDT"
+    },
+    {
+      "symbol": "BNB",
+      "coingecko_id": "binancecoin",
+      "name": "BNB",
+      "pair": "BNB/USDT"
+    },
+    {
+      "symbol": "BNKR",
+      "coingecko_id": "bankercoin-2",
+      "name": "BankrCoin",
+      "pair": "BNKR/USDT"
+    },
+    {
+      "symbol": "BNT",
+      "coingecko_id": "bancor",
+      "name": "Bancor Network",
+      "pair": "BNT/USDT"
+    },
+    {
+      "symbol": "BNX",
+      "coingecko_id": "binaryx",
+      "name": "BinaryX [OLD]",
+      "pair": "BNX/USDT"
+    },
+    {
+      "symbol": "BOBA",
+      "coingecko_id": "bobacat",
+      "name": "Boba Cat",
+      "pair": "BOBA/USDT"
+    },
+    {
+      "symbol": "BOME",
+      "coingecko_id": "book-of-meme",
+      "name": "BOOK OF MEME",
+      "pair": "BOME/USDT"
+    },
+    {
+      "symbol": "BOND",
+      "coingecko_id": "barnbridge",
+      "name": "BarnBridge",
+      "pair": "BOND/USDT"
+    },
+    {
+      "symbol": "BONK",
+      "coingecko_id": "based-bonk",
+      "name": "Based Bonk",
+      "pair": "BONK/USDT"
+    },
+    {
+      "symbol": "BR",
+      "coingecko_id": "bedrock-token",
+      "name": "Bedrock",
+      "pair": "BR/USDT"
+    },
+    {
+      "symbol": "BRETT",
+      "coingecko_id": "based-brett",
+      "name": "Brett",
+      "pair": "BRETT/USDT"
+    },
+    {
+      "symbol": "BREV",
+      "coingecko_id": "brevis",
+      "name": "Brevis",
+      "pair": "BREV/USDT"
+    },
+    {
+      "symbol": "BSB",
+      "coingecko_id": "based-street-bets",
+      "name": "Based Street Bets",
+      "pair": "BSB/USDT"
+    },
+    {
+      "symbol": "BST",
+      "coingecko_id": "blocksquare",
+      "name": "Blocksquare",
+      "pair": "BST/USDT"
+    },
+    {
+      "symbol": "BSV",
+      "coingecko_id": "bitcoin-cash-sv",
+      "name": "Bitcoin SV",
+      "pair": "BSV/USDT"
+    },
+    {
+      "symbol": "BTC",
+      "coingecko_id": "bitcoin",
+      "name": "Bitcoin",
+      "pair": "BTC/USDT"
+    },
+    {
+      "symbol": "BTR",
+      "coingecko_id": "bitlayer-bitvm",
+      "name": "Bitlayer",
+      "pair": "BTR/USDT"
+    },
+    {
+      "symbol": "BTT",
+      "coingecko_id": "bittorrent",
+      "name": "BitTorrent",
+      "pair": "BTT/USDT"
+    },
+    {
+      "symbol": "BUZ",
+      "coingecko_id": "buz-economy",
+      "name": "Buz Economy",
+      "pair": "BUZ/USDT"
+    },
+    {
+      "symbol": "C",
+      "coingecko_id": "c",
+      "name": "C",
+      "pair": "C/USDT"
+    },
+    {
+      "symbol": "C98",
+      "coingecko_id": "coin98",
+      "name": "Coin98",
+      "pair": "C98/USDT"
+    },
+    {
+      "symbol": "CAGA",
+      "coingecko_id": "crypto-asset-governance-alliance",
+      "name": "Crypto Asset Governance Alliance",
+      "pair": "CAGA/USDT"
+    },
+    {
+      "symbol": "CAKE",
+      "coingecko_id": "pancakeswap-token",
+      "name": "PancakeSwap",
+      "pair": "CAKE/USDT"
+    },
+    {
+      "symbol": "CAM",
+      "coingecko_id": "camino-network",
+      "name": "Camino Network",
+      "pair": "CAM/USDT"
+    },
+    {
+      "symbol": "CAMP",
+      "coingecko_id": "camp-network",
+      "name": "Camp Network",
+      "pair": "CAMP/USDT"
+    },
+    {
+      "symbol": "CAP",
+      "coingecko_id": "based-brians",
+      "name": "Based Brians",
+      "pair": "CAP/USDT"
+    },
+    {
+      "symbol": "CARV",
+      "coingecko_id": "carv",
+      "name": "CARV",
+      "pair": "CARV/USDT"
+    },
+    {
+      "symbol": "CASHCAT",
+      "coingecko_id": "cash-cat",
+      "name": "Cash Cat",
+      "pair": "CASHCAT/USDT"
+    },
+    {
+      "symbol": "CAT",
+      "coingecko_id": "cat-2",
+      "name": "Liquid Cat",
+      "pair": "CAT/USDT"
+    },
+    {
+      "symbol": "CC",
+      "coingecko_id": "canton-network",
+      "name": "Canton",
+      "pair": "CC/USDT"
+    },
+    {
+      "symbol": "CCD",
+      "coingecko_id": "concordium",
+      "name": "Concordium",
+      "pair": "CCD/USDT"
+    },
+    {
+      "symbol": "CELO",
+      "coingecko_id": "celo",
+      "name": "Celo",
+      "pair": "CELO/USDT"
+    },
+    {
+      "symbol": "CELR",
+      "coingecko_id": "celer-network",
+      "name": "Celer Network",
+      "pair": "CELR/USDT"
+    },
+    {
+      "symbol": "CETUS",
+      "coingecko_id": "cetus-protocol",
+      "name": "Cetus Protocol",
+      "pair": "CETUS/USDT"
+    },
+    {
+      "symbol": "CFG",
+      "coingecko_id": "centrifuge",
+      "name": "Centrifuge [OLD]",
+      "pair": "CFG/USDT"
+    },
+    {
+      "symbol": "CFX",
+      "coingecko_id": "cf-industries-xstock",
+      "name": "CF Industries xStock",
+      "pair": "CFX/USDT"
+    },
+    {
+      "symbol": "CGPT",
+      "coingecko_id": "chaingpt",
+      "name": "ChainGPT",
+      "pair": "CGPT/USDT"
+    },
+    {
+      "symbol": "CHEQ",
+      "coingecko_id": "cheqd-network",
+      "name": "CHEQD Network",
+      "pair": "CHEQ/USDT"
+    },
+    {
+      "symbol": "CHESS",
+      "coingecko_id": "chesscoin-0-32",
+      "name": "ChessCoin 0.32%",
+      "pair": "CHESS/USDT"
+    },
+    {
+      "symbol": "CHIP",
+      "coingecko_id": "algo-casino-chips",
+      "name": "Algo-Casino Chips",
+      "pair": "CHIP/USDT"
+    },
+    {
+      "symbol": "CHR",
+      "coingecko_id": "chromaway",
+      "name": "Chromia",
+      "pair": "CHR/USDT"
+    },
+    {
+      "symbol": "CHZ",
+      "coingecko_id": "chiliz",
+      "name": "Chiliz",
+      "pair": "CHZ/USDT"
+    },
+    {
+      "symbol": "CITY",
+      "coingecko_id": "alpha-city-2",
+      "name": "Alpha City",
+      "pair": "CITY/USDT"
+    },
+    {
+      "symbol": "CKB",
+      "coingecko_id": "nervos-network",
+      "name": "Nervos Network",
+      "pair": "CKB/USDT"
+    },
+    {
+      "symbol": "CLANKER",
+      "coingecko_id": "clanker",
+      "name": "Clanker",
+      "pair": "CLANKER/USDT"
+    },
+    {
+      "symbol": "CLOUD",
+      "coingecko_id": "cloudai",
+      "name": "CloudAI",
+      "pair": "CLOUD/USDT"
+    },
+    {
+      "symbol": "CLV",
+      "coingecko_id": "clevernode",
+      "name": "Clevernode",
+      "pair": "CLV/USDT"
+    },
+    {
+      "symbol": "COMBO",
+      "coingecko_id": "furucombo",
+      "name": "Furucombo",
+      "pair": "COMBO/USDT"
+    },
+    {
+      "symbol": "COMP",
+      "coingecko_id": "compound-governance-token",
+      "name": "Compound",
+      "pair": "COMP/USDT"
+    },
+    {
+      "symbol": "COOKIE",
+      "coingecko_id": "cookie",
+      "name": "Cookie DAO",
+      "pair": "COOKIE/USDT"
+    },
+    {
+      "symbol": "COQ",
+      "coingecko_id": "coq-inu",
+      "name": "Coq Inu",
+      "pair": "COQ/USDT"
+    },
+    {
+      "symbol": "CORE",
+      "coingecko_id": "core-2",
+      "name": "Core",
+      "pair": "CORE/USDT"
+    },
+    {
+      "symbol": "COREUM",
+      "coingecko_id": "coreum",
+      "name": "Coreum [OLD]",
+      "pair": "COREUM/USDT"
+    },
+    {
+      "symbol": "COTI",
+      "coingecko_id": "coti",
+      "name": "COTI",
+      "pair": "COTI/USDT"
+    },
+    {
+      "symbol": "COW",
+      "coingecko_id": "cow",
+      "name": "Cow",
+      "pair": "COW/USDT"
+    },
+    {
+      "symbol": "CPOOL",
+      "coingecko_id": "clearpool",
+      "name": "Clearpool",
+      "pair": "CPOOL/USDT"
+    },
+    {
+      "symbol": "CREO",
+      "coingecko_id": "creo-engine",
+      "name": "Creo Engine",
+      "pair": "CREO/USDT"
+    },
+    {
+      "symbol": "CRV",
+      "coingecko_id": "bridged-curve-dao-token-stargate",
+      "name": "Bridged Curve DAO Token (Stargate)",
+      "pair": "CRV/USDT"
+    },
+    {
+      "symbol": "CSPR",
+      "coingecko_id": "casper-network",
+      "name": "Casper Network",
+      "pair": "CSPR/USDT"
+    },
+    {
+      "symbol": "CT",
+      "coingecko_id": "concrete",
+      "name": "Concrete",
+      "pair": "CT/USDT"
+    },
+    {
+      "symbol": "CTC",
+      "coingecko_id": "creditcoin-2",
+      "name": "Creditcoin",
+      "pair": "CTC/USDT"
+    },
+    {
+      "symbol": "CTK",
+      "coingecko_id": "certik",
+      "name": "Shentu",
+      "pair": "CTK/USDT"
+    },
+    {
+      "symbol": "CTR",
+      "coingecko_id": "citrea",
+      "name": "Citrea",
+      "pair": "CTR/USDT"
+    },
+    {
+      "symbol": "CTSI",
+      "coingecko_id": "cartesi",
+      "name": "Cartesi",
+      "pair": "CTSI/USDT"
+    },
+    {
+      "symbol": "CVC",
+      "coingecko_id": "civic",
+      "name": "Civic",
+      "pair": "CVC/USDT"
+    },
+    {
+      "symbol": "CVP",
+      "coingecko_id": "concentrated-voting-power",
+      "name": "PowerPool Concentrated Voting Power",
+      "pair": "CVP/USDT"
+    },
+    {
+      "symbol": "CVX",
+      "coingecko_id": "chevron-corp-dinari-tokenized-stock",
+      "name": "Chevron Corp (Dinari Tokenized Stock)",
+      "pair": "CVX/USDT"
+    },
+    {
+      "symbol": "CXT",
+      "coingecko_id": "covalent-x-token",
+      "name": "Covalent X Token",
+      "pair": "CXT/USDT"
+    },
+    {
+      "symbol": "CYBER",
+      "coingecko_id": "cyberconnect",
+      "name": "CYBER",
+      "pair": "CYBER/USDT"
+    },
+    {
+      "symbol": "D",
+      "coingecko_id": "dar-open-network",
+      "name": "Dar Open Network",
+      "pair": "D/USDT"
+    },
+    {
+      "symbol": "DAR",
+      "coingecko_id": "mines-of-dalarnia",
+      "name": "Mines of Dalarnia",
+      "pair": "DAR/USDT"
+    },
+    {
+      "symbol": "DASH",
+      "coingecko_id": "dash",
+      "name": "Dash",
+      "pair": "DASH/USDT"
+    },
+    {
+      "symbol": "DATA",
+      "coingecko_id": "data-ai",
+      "name": "Data Ai",
+      "pair": "DATA/USDT"
+    },
+    {
+      "symbol": "DBR",
+      "coingecko_id": "debridge",
+      "name": "deBridge",
+      "pair": "DBR/USDT"
+    },
+    {
+      "symbol": "DCB",
+      "coingecko_id": "dead-cat-bounce",
+      "name": "DEAD CAT BOUNCE",
+      "pair": "DCB/USDT"
+    },
+    {
+      "symbol": "DCK",
+      "coingecko_id": "dexcheck",
+      "name": "DexCheck AI",
+      "pair": "DCK/USDT"
+    },
+    {
+      "symbol": "DCR",
+      "coingecko_id": "decred",
+      "name": "Decred",
+      "pair": "DCR/USDT"
+    },
+    {
+      "symbol": "DEAI",
+      "coingecko_id": "zero1-labs",
+      "name": "Zero1 Labs",
+      "pair": "DEAI/USDT"
+    },
+    {
+      "symbol": "DEEP",
+      "coingecko_id": "deep",
+      "name": "DeepBook",
+      "pair": "DEEP/USDT"
+    },
+    {
+      "symbol": "DEFI",
+      "coingecko_id": "de-fi",
+      "name": "DeFi",
+      "pair": "DEFI/USDT"
+    },
+    {
+      "symbol": "DEGEN",
+      "coingecko_id": "degen-arena",
+      "name": "Degen Arena",
+      "pair": "DEGEN/USDT"
+    },
+    {
+      "symbol": "DEGO",
+      "coingecko_id": "dego-finance",
+      "name": "Dego Finance",
+      "pair": "DEGO/USDT"
+    },
+    {
+      "symbol": "DENT",
+      "coingecko_id": "dent",
+      "name": "Dent",
+      "pair": "DENT/USDT"
+    },
+    {
+      "symbol": "DESCI",
+      "coingecko_id": "sui-desci-agents",
+      "name": "SUI Desci Agents",
+      "pair": "DESCI/USDT"
+    },
+    {
+      "symbol": "DEVVE",
+      "coingecko_id": "devve",
+      "name": "DevvE",
+      "pair": "DEVVE/USDT"
+    },
+    {
+      "symbol": "DF",
+      "coingecko_id": "dforce-token",
+      "name": "dForce",
+      "pair": "DF/USDT"
+    },
+    {
+      "symbol": "DGB",
+      "coingecko_id": "digibyte",
+      "name": "DigiByte",
+      "pair": "DGB/USDT"
+    },
+    {
+      "symbol": "DIA",
+      "coingecko_id": "dia-data",
+      "name": "DIA",
+      "pair": "DIA/USDT"
+    },
+    {
+      "symbol": "DMAIL",
+      "coingecko_id": "dmail-network",
+      "name": "Dmail Network",
+      "pair": "DMAIL/USDT"
+    },
+    {
+      "symbol": "DMC",
+      "coingecko_id": "decentralized-mining-exchange",
+      "name": "Decentralized Mining Exchange",
+      "pair": "DMC/USDT"
+    },
+    {
+      "symbol": "DOCK",
+      "coingecko_id": "dock-2",
+      "name": "DOCK",
+      "pair": "DOCK/USDT"
+    },
+    {
+      "symbol": "DODO",
+      "coingecko_id": "dodo",
+      "name": "DODO",
+      "pair": "DODO/USDT"
+    },
+    {
+      "symbol": "DOG",
+      "coingecko_id": "base-dog",
+      "name": "Base DOG",
+      "pair": "DOG/USDT"
+    },
+    {
+      "symbol": "DOGA",
+      "coingecko_id": "dogita",
+      "name": "DOGITA",
+      "pair": "DOGA/USDT"
+    },
+    {
+      "symbol": "DOGE",
+      "coingecko_id": "binance-peg-dogecoin",
+      "name": "Binance-Peg Dogecoin",
+      "pair": "DOGE/USDT"
+    },
+    {
+      "symbol": "DOLO",
+      "coingecko_id": "dolomite",
+      "name": "Dolomite",
+      "pair": "DOLO/USDT"
+    },
+    {
+      "symbol": "DOOD",
+      "coingecko_id": "doodles",
+      "name": "Doodles",
+      "pair": "DOOD/USDT"
+    },
+    {
+      "symbol": "DOT",
+      "coingecko_id": "binance-peg-polkadot",
+      "name": "Binance-Peg Polkadot",
+      "pair": "DOT/USDT"
+    },
+    {
+      "symbol": "DRIFT",
+      "coingecko_id": "drift-protocol",
+      "name": "Drift Protocol",
+      "pair": "DRIFT/USDT"
+    },
+    {
+      "symbol": "DRV",
+      "coingecko_id": "derive",
+      "name": "Derive",
+      "pair": "DRV/USDT"
+    },
+    {
+      "symbol": "DUEL",
+      "coingecko_id": "gamegpt",
+      "name": "GameGPT",
+      "pair": "DUEL/USDT"
+    },
+    {
+      "symbol": "DUSK",
+      "coingecko_id": "dusk-network",
+      "name": "DUSK",
+      "pair": "DUSK/USDT"
+    },
+    {
+      "symbol": "DYDX",
+      "coingecko_id": "dydx-chain",
+      "name": "dYdX",
+      "pair": "DYDX/USDT"
+    },
+    {
+      "symbol": "DYM",
+      "coingecko_id": "dymension",
+      "name": "Dymension",
+      "pair": "DYM/USDT"
+    },
+    {
+      "symbol": "EDEN",
+      "coingecko_id": "eden",
+      "name": "EDEN",
+      "pair": "EDEN/USDT"
+    },
+    {
+      "symbol": "EDGE",
+      "coingecko_id": "definitive",
+      "name": "Definitive",
+      "pair": "EDGE/USDT"
+    },
+    {
+      "symbol": "EDU",
+      "coingecko_id": "edu-coin",
+      "name": "Open Campus",
+      "pair": "EDU/USDT"
+    },
+    {
+      "symbol": "EFI",
+      "coingecko_id": "efinity",
+      "name": "Efinity",
+      "pair": "EFI/USDT"
+    },
+    {
+      "symbol": "EGLD",
+      "coingecko_id": "elrond-erd-2",
+      "name": "MultiversX",
+      "pair": "EGLD/USDT"
+    },
+    {
+      "symbol": "EGO",
+      "coingecko_id": "ego-2",
+      "name": "EGO",
+      "pair": "EGO/USDT"
+    },
+    {
+      "symbol": "EIGEN",
+      "coingecko_id": "eigenlayer",
+      "name": "EigenCloud (prev. EigenLayer)",
+      "pair": "EIGEN/USDT"
+    },
+    {
+      "symbol": "ELF",
+      "coingecko_id": "aelf",
+      "name": "aelf",
+      "pair": "ELF/USDT"
+    },
+    {
+      "symbol": "ELIZAOS",
+      "coingecko_id": "elizaos",
+      "name": "ElizaOS",
+      "pair": "ELIZAOS/USDT"
+    },
+    {
+      "symbol": "EMT",
+      "coingecko_id": "earthmeta",
+      "name": "EarthMeta [OLD]",
+      "pair": "EMT/USDT"
+    },
+    {
+      "symbol": "ENA",
+      "coingecko_id": "ethena",
+      "name": "Ethena",
+      "pair": "ENA/USDT"
+    },
+    {
+      "symbol": "ENJ",
+      "coingecko_id": "enjincoin",
+      "name": "Enjin Coin",
+      "pair": "ENJ/USDT"
+    },
+    {
+      "symbol": "ENS",
+      "coingecko_id": "ethereum-name-service",
+      "name": "Ethereum Name Service",
+      "pair": "ENS/USDT"
+    },
+    {
+      "symbol": "ENSO",
+      "coingecko_id": "enso",
+      "name": "Enso",
+      "pair": "ENSO/USDT"
+    },
+    {
+      "symbol": "EOS",
+      "coingecko_id": "binance-peg-eos",
+      "name": "Binance-Peg EOS",
+      "pair": "EOS/USDT"
+    },
+    {
+      "symbol": "EPIC",
+      "coingecko_id": "epic-cash",
+      "name": "Epic Private Internet Cash",
+      "pair": "EPIC/USDT"
+    },
+    {
+      "symbol": "ERA",
+      "coingecko_id": "caldera",
+      "name": "Caldera",
+      "pair": "ERA/USDT"
+    },
+    {
+      "symbol": "ERG",
+      "coingecko_id": "ergo",
+      "name": "Ergo",
+      "pair": "ERG/USDT"
+    },
+    {
+      "symbol": "ERN",
+      "coingecko_id": "ethernity-chain",
+      "name": "Ethernity Chain",
+      "pair": "ERN/USDT"
+    },
+    {
+      "symbol": "ES",
+      "coingecko_id": "eclipse-3",
+      "name": "Eclipse",
+      "pair": "ES/USDT"
+    },
+    {
+      "symbol": "ESE",
+      "coingecko_id": "eesee",
+      "name": "Eesee",
+      "pair": "ESE/USDT"
+    },
+    {
+      "symbol": "ESP",
+      "coingecko_id": "espresso",
+      "name": "Espresso",
+      "pair": "ESP/USDT"
+    },
+    {
+      "symbol": "ESPORTS",
+      "coingecko_id": "yooldo-games",
+      "name": "Yooldo Games",
+      "pair": "ESPORTS/USDT"
+    },
+    {
+      "symbol": "ETC",
+      "coingecko_id": "ethereum-classic",
+      "name": "Ethereum Classic",
+      "pair": "ETC/USDT"
+    },
+    {
+      "symbol": "ETH",
+      "coingecko_id": "ethereum",
+      "name": "Ethereum",
+      "pair": "ETH/USDT"
+    },
+    {
+      "symbol": "ETHFI",
+      "coingecko_id": "ether-fi",
+      "name": "Ether.fi",
+      "pair": "ETHFI/USDT"
+    },
+    {
+      "symbol": "ETHW",
+      "coingecko_id": "ethereum-pow-iou",
+      "name": "EthereumPoW",
+      "pair": "ETHW/USDT"
+    },
+    {
+      "symbol": "EURAU",
+      "coingecko_id": "allunity-eur",
+      "name": "AllUnity EUR",
+      "pair": "EURAU/USDT"
+    },
+    {
+      "symbol": "EURC",
+      "coingecko_id": "euro-coin",
+      "name": "EURC",
+      "pair": "EURC/USDT"
+    },
+    {
+      "symbol": "EURCV",
+      "coingecko_id": "societe-generale-forge-eurcv",
+      "name": "EUR CoinVertible",
+      "pair": "EURCV/USDT"
+    },
+    {
+      "symbol": "EUROP",
+      "coingecko_id": "schuman-europ",
+      "name": "EUR\u00d8P",
+      "pair": "EUROP/USDT"
+    },
+    {
+      "symbol": "EV",
+      "coingecko_id": "evai-2",
+      "name": "Evai",
+      "pair": "EV/USDT"
+    },
+    {
+      "symbol": "EYWA",
+      "coingecko_id": "eywa",
+      "name": "EYWA",
+      "pair": "EYWA/USDT"
+    },
+    {
+      "symbol": "F",
+      "coingecko_id": "f",
+      "name": "F",
+      "pair": "F/USDT"
+    },
+    {
+      "symbol": "F3",
+      "coingecko_id": "friend3",
+      "name": "Friend3",
+      "pair": "F3/USDT"
+    },
+    {
+      "symbol": "FARM",
+      "coingecko_id": "farm-2",
+      "name": "FARM",
+      "pair": "FARM/USDT"
+    },
+    {
+      "symbol": "FARTCOIN",
+      "coingecko_id": "based-fartcoin",
+      "name": "Based Fartcoin",
+      "pair": "FARTCOIN/USDT"
+    },
+    {
+      "symbol": "FCON",
+      "coingecko_id": "spacefalcon",
+      "name": "SpaceFalcon",
+      "pair": "FCON/USDT"
+    },
+    {
+      "symbol": "FET",
+      "coingecko_id": "fetch-ai",
+      "name": "Artificial Superintelligence Alliance",
+      "pair": "FET/USDT"
+    },
+    {
+      "symbol": "FF",
+      "coingecko_id": "falcon-finance-ff",
+      "name": "Falcon Finance",
+      "pair": "FF/USDT"
+    },
+    {
+      "symbol": "FHE",
+      "coingecko_id": "mind-network",
+      "name": "Mind Network",
+      "pair": "FHE/USDT"
+    },
+    {
+      "symbol": "FIDA",
+      "coingecko_id": "bonfida",
+      "name": "Bonfida",
+      "pair": "FIDA/USDT"
+    },
+    {
+      "symbol": "FIL",
+      "coingecko_id": "binance-peg-filecoin",
+      "name": "Binance-Peg Filecoin",
+      "pair": "FIL/USDT"
+    },
+    {
+      "symbol": "FIO",
+      "coingecko_id": "fio-protocol",
+      "name": "FIO Protocol",
+      "pair": "FIO/USDT"
+    },
+    {
+      "symbol": "FIS",
+      "coingecko_id": "fidelity-national-information-services-dinari-tokenized-stock",
+      "name": "Fidelity National Information Services (Dinari Tokenized Stock)",
+      "pair": "FIS/USDT"
+    },
+    {
+      "symbol": "FLIP",
+      "coingecko_id": "chainflip",
+      "name": "Chainflip",
+      "pair": "FLIP/USDT"
+    },
+    {
+      "symbol": "FLM",
+      "coingecko_id": "flamingo-finance",
+      "name": "Flamingo Finance",
+      "pair": "FLM/USDT"
+    },
+    {
+      "symbol": "FLOCK",
+      "coingecko_id": "flock-2",
+      "name": "FLOCK",
+      "pair": "FLOCK/USDT"
+    },
+    {
+      "symbol": "FLOKI",
+      "coingecko_id": "floki",
+      "name": "FLOKI",
+      "pair": "FLOKI/USDT"
+    },
+    {
+      "symbol": "FLOW",
+      "coingecko_id": "flow",
+      "name": "Flow",
+      "pair": "FLOW/USDT"
+    },
+    {
+      "symbol": "FLR",
+      "coingecko_id": "flare-networks",
+      "name": "Flare",
+      "pair": "FLR/USDT"
+    },
+    {
+      "symbol": "FLUX",
+      "coingecko_id": "flux",
+      "name": "Datamine FLUX",
+      "pair": "FLUX/USDT"
+    },
+    {
+      "symbol": "FOMO",
+      "coingecko_id": "fomo-2",
+      "name": "FOMO",
+      "pair": "FOMO/USDT"
+    },
+    {
+      "symbol": "FOR",
+      "coingecko_id": "force-protocol",
+      "name": "ForTube",
+      "pair": "FOR/USDT"
+    },
+    {
+      "symbol": "FORM",
+      "coingecko_id": "four",
+      "name": "Four",
+      "pair": "FORM/USDT"
+    },
+    {
+      "symbol": "FORTH",
+      "coingecko_id": "ampleforth-governance-token",
+      "name": "Ampleforth Governance",
+      "pair": "FORTH/USDT"
+    },
+    {
+      "symbol": "FPS",
+      "coingecko_id": "web3war",
+      "name": "web3war",
+      "pair": "FPS/USDT"
+    },
+    {
+      "symbol": "FRAX",
+      "coingecko_id": "frax",
+      "name": "Legacy Frax Dollar",
+      "pair": "FRAX/USDT"
+    },
+    {
+      "symbol": "FRONT",
+      "coingecko_id": "frontier-token",
+      "name": "Frontier",
+      "pair": "FRONT/USDT"
+    },
+    {
+      "symbol": "FTM",
+      "coingecko_id": "fantom",
+      "name": "Fantom",
+      "pair": "FTM/USDT"
+    },
+    {
+      "symbol": "FTT",
+      "coingecko_id": "ftx-token",
+      "name": "FTX",
+      "pair": "FTT/USDT"
+    },
+    {
+      "symbol": "FUEL",
+      "coingecko_id": "fuel-network",
+      "name": "Fuel Network",
+      "pair": "FUEL/USDT"
+    },
+    {
+      "symbol": "FURY",
+      "coingecko_id": "engines-of-fury",
+      "name": "Engines of Fury",
+      "pair": "FURY/USDT"
+    },
+    {
+      "symbol": "FWOG",
+      "coingecko_id": "based-fwog",
+      "name": "Based Fwog",
+      "pair": "FWOG/USDT"
+    },
+    {
+      "symbol": "G",
+      "coingecko_id": "giants-protocol",
+      "name": "Giants Protocol",
+      "pair": "G/USDT"
+    },
+    {
+      "symbol": "GAL",
+      "coingecko_id": "galatasaray-fan-token",
+      "name": "Galatasaray Fan Token",
+      "pair": "GAL/USDT"
+    },
+    {
+      "symbol": "GALA",
+      "coingecko_id": "gala",
+      "name": "GALA",
+      "pair": "GALA/USDT"
+    },
+    {
+      "symbol": "GAS",
+      "coingecko_id": "gas",
+      "name": "Gas",
+      "pair": "GAS/USDT"
+    },
+    {
+      "symbol": "GENIUS",
+      "coingecko_id": "genius-2",
+      "name": "Genius",
+      "pair": "GENIUS/USDT"
+    },
+    {
+      "symbol": "GHST",
+      "coingecko_id": "aavegotchi",
+      "name": "Aavegotchi",
+      "pair": "GHST/USDT"
+    },
+    {
+      "symbol": "GIGA",
+      "coingecko_id": "giga-2",
+      "name": "GIGA",
+      "pair": "GIGA/USDT"
+    },
+    {
+      "symbol": "GIGGLE",
+      "coingecko_id": "giggle-fund",
+      "name": "Giggle Fund",
+      "pair": "GIGGLE/USDT"
+    },
+    {
+      "symbol": "GLM",
+      "coingecko_id": "golem",
+      "name": "Golem",
+      "pair": "GLM/USDT"
+    },
+    {
+      "symbol": "GLMR",
+      "coingecko_id": "moonbeam",
+      "name": "Moonbeam",
+      "pair": "GLMR/USDT"
+    },
+    {
+      "symbol": "GMT",
+      "coingecko_id": "stepn",
+      "name": "GMT",
+      "pair": "GMT/USDT"
+    },
+    {
+      "symbol": "GMX",
+      "coingecko_id": "general-motors-xstock",
+      "name": "General Motors xStock",
+      "pair": "GMX/USDT"
+    },
+    {
+      "symbol": "GNO",
+      "coingecko_id": "gnosis",
+      "name": "Gnosis",
+      "pair": "GNO/USDT"
+    },
+    {
+      "symbol": "GOAL",
+      "coingecko_id": "topgoal",
+      "name": "TopGoal",
+      "pair": "GOAL/USDT"
+    },
+    {
+      "symbol": "GOAT",
+      "coingecko_id": "absolute-goat",
+      "name": "Absolute Goat",
+      "pair": "GOAT/USDT"
+    },
+    {
+      "symbol": "GOATS",
+      "coingecko_id": "goats-2",
+      "name": "GOATS",
+      "pair": "GOATS/USDT"
+    },
+    {
+      "symbol": "GODL",
+      "coingecko_id": "godl-2",
+      "name": "GODL",
+      "pair": "GODL/USDT"
+    },
+    {
+      "symbol": "GODS",
+      "coingecko_id": "gods-unchained",
+      "name": "Gods Unchained",
+      "pair": "GODS/USDT"
+    },
+    {
+      "symbol": "GPS",
+      "coingecko_id": "goplus-security",
+      "name": "GoPlus Security",
+      "pair": "GPS/USDT"
+    },
+    {
+      "symbol": "GPT",
+      "coingecko_id": "gold-park",
+      "name": "Gold Park",
+      "pair": "GPT/USDT"
+    },
+    {
+      "symbol": "GRASS",
+      "coingecko_id": "grass",
+      "name": "Grass",
+      "pair": "GRASS/USDT"
+    },
+    {
+      "symbol": "GRIFFAIN",
+      "coingecko_id": "griffain",
+      "name": "GRIFFAIN",
+      "pair": "GRIFFAIN/USDT"
+    },
+    {
+      "symbol": "GRT",
+      "coingecko_id": "the-graph",
+      "name": "The Graph",
+      "pair": "GRT/USDT"
+    },
+    {
+      "symbol": "GT",
+      "coingecko_id": "gatechain-token",
+      "name": "Gate",
+      "pair": "GT/USDT"
+    },
+    {
+      "symbol": "GTAI",
+      "coingecko_id": "gt-protocol",
+      "name": "GT Protocol",
+      "pair": "GTAI/USDT"
+    },
+    {
+      "symbol": "GTC",
+      "coingecko_id": "gitcoin",
+      "name": "Gitcoin",
+      "pair": "GTC/USDT"
+    },
+    {
+      "symbol": "GUN",
+      "coingecko_id": "gunz",
+      "name": "Gunz",
+      "pair": "GUN/USDT"
+    },
+    {
+      "symbol": "H",
+      "coingecko_id": "h",
+      "name": "H",
+      "pair": "H/USDT"
+    },
+    {
+      "symbol": "HAEDAL",
+      "coingecko_id": "haedal",
+      "name": "Haedal Protocol",
+      "pair": "HAEDAL/USDT"
+    },
+    {
+      "symbol": "HAI",
+      "coingecko_id": "hackenai",
+      "name": "Hacken",
+      "pair": "HAI/USDT"
+    },
+    {
+      "symbol": "HAPPY",
+      "coingecko_id": "happycat-2",
+      "name": "Happy Cat",
+      "pair": "HAPPY/USDT"
+    },
+    {
+      "symbol": "HBAR",
+      "coingecko_id": "hedera-hashgraph",
+      "name": "Hedera",
+      "pair": "HBAR/USDT"
+    },
+    {
+      "symbol": "HEI",
+      "coingecko_id": "heima",
+      "name": "Heima",
+      "pair": "HEI/USDT"
+    },
+    {
+      "symbol": "HEMI",
+      "coingecko_id": "hemi",
+      "name": "Hemi",
+      "pair": "HEMI/USDT"
+    },
+    {
+      "symbol": "HFT",
+      "coingecko_id": "hashflow",
+      "name": "Hashflow",
+      "pair": "HFT/USDT"
+    },
+    {
+      "symbol": "HGPT",
+      "coingecko_id": "hypergpt",
+      "name": "HyperGPT",
+      "pair": "HGPT/USDT"
+    },
+    {
+      "symbol": "HIFI",
+      "coingecko_id": "hifi-finance",
+      "name": "Hifi Finance",
+      "pair": "HIFI/USDT"
+    },
+    {
+      "symbol": "HIGH",
+      "coingecko_id": "high",
+      "name": "High",
+      "pair": "HIGH/USDT"
+    },
+    {
+      "symbol": "HIPPO",
+      "coingecko_id": "hippo-ai",
+      "name": "HIPPO AI",
+      "pair": "HIPPO/USDT"
+    },
+    {
+      "symbol": "HIVE",
+      "coingecko_id": "hive",
+      "name": "Hive",
+      "pair": "HIVE/USDT"
+    },
+    {
+      "symbol": "HNT",
+      "coingecko_id": "helium",
+      "name": "Helium",
+      "pair": "HNT/USDT"
+    },
+    {
+      "symbol": "HOLO",
+      "coingecko_id": "holo",
+      "name": "holo",
+      "pair": "HOLO/USDT"
+    },
+    {
+      "symbol": "HOME",
+      "coingecko_id": "home",
+      "name": "HOME",
+      "pair": "HOME/USDT"
+    },
+    {
+      "symbol": "HONEY",
+      "coingecko_id": "hivemapper",
+      "name": "Hivemapper",
+      "pair": "HONEY/USDT"
+    },
+    {
+      "symbol": "HOOK",
+      "coingecko_id": "hooked-protocol",
+      "name": "Hooked Protocol",
+      "pair": "HOOK/USDT"
+    },
+    {
+      "symbol": "HOT",
+      "coingecko_id": "holotoken",
+      "name": "Holo",
+      "pair": "HOT/USDT"
+    },
+    {
+      "symbol": "HPP",
+      "coingecko_id": "aergo-2",
+      "name": "House Party Protocol",
+      "pair": "HPP/USDT"
+    },
+    {
+      "symbol": "HT",
+      "coingecko_id": "huobi-token",
+      "name": "Huobi",
+      "pair": "HT/USDT"
+    },
+    {
+      "symbol": "HTX",
+      "coingecko_id": "htx-dao",
+      "name": "HTX DAO",
+      "pair": "HTX/USDT"
+    },
+    {
+      "symbol": "HUMA",
+      "coingecko_id": "huma-finance",
+      "name": "Huma Finance",
+      "pair": "HUMA/USDT"
+    },
+    {
+      "symbol": "HYPE",
+      "coingecko_id": "hype-3",
+      "name": "HYPE",
+      "pair": "HYPE/USDT"
+    },
+    {
+      "symbol": "HYPER",
+      "coingecko_id": "hyper-4",
+      "name": "Hyper",
+      "pair": "HYPER/USDT"
+    },
+    {
+      "symbol": "IAG",
+      "coingecko_id": "iagon",
+      "name": "Iagon",
+      "pair": "IAG/USDT"
+    },
+    {
+      "symbol": "ICE",
+      "coingecko_id": "decentral-games-ice",
+      "name": "Decentral Games ICE",
+      "pair": "ICE/USDT"
+    },
+    {
+      "symbol": "ICNT",
+      "coingecko_id": "impossible-cloud-network-token",
+      "name": "Impossible Cloud Network Token",
+      "pair": "ICNT/USDT"
+    },
+    {
+      "symbol": "ICP",
+      "coingecko_id": "internet-computer",
+      "name": "Internet Computer",
+      "pair": "ICP/USDT"
+    },
+    {
+      "symbol": "ICX",
+      "coingecko_id": "icon",
+      "name": "ICON",
+      "pair": "ICX/USDT"
+    },
+    {
+      "symbol": "ID",
+      "coingecko_id": "arcid",
+      "name": "ArcID",
+      "pair": "ID/USDT"
+    },
+    {
+      "symbol": "IDEX",
+      "coingecko_id": "aurora-dao",
+      "name": "IDEX",
+      "pair": "IDEX/USDT"
+    },
+    {
+      "symbol": "ILV",
+      "coingecko_id": "illuvium",
+      "name": "Illuvium",
+      "pair": "ILV/USDT"
+    },
+    {
+      "symbol": "IMU",
+      "coingecko_id": "immunefi",
+      "name": "Immunefi",
+      "pair": "IMU/USDT"
+    },
+    {
+      "symbol": "IMX",
+      "coingecko_id": "immutable-x",
+      "name": "Immutable",
+      "pair": "IMX/USDT"
+    },
+    {
+      "symbol": "IN",
+      "coingecko_id": "incoin-2",
+      "name": "Incoin",
+      "pair": "IN/USDT"
+    },
+    {
+      "symbol": "INFRA",
+      "coingecko_id": "bware-infra",
+      "name": "Bware",
+      "pair": "INFRA/USDT"
+    },
+    {
+      "symbol": "INIT",
+      "coingecko_id": "init",
+      "name": "Inite",
+      "pair": "INIT/USDT"
+    },
+    {
+      "symbol": "INJ",
+      "coingecko_id": "injective-protocol",
+      "name": "Injective",
+      "pair": "INJ/USDT"
+    },
+    {
+      "symbol": "INSP",
+      "coingecko_id": "inspect",
+      "name": "Inspect",
+      "pair": "INSP/USDT"
+    },
+    {
+      "symbol": "IO",
+      "coingecko_id": "io",
+      "name": "io.net",
+      "pair": "IO/USDT"
+    },
+    {
+      "symbol": "IOST",
+      "coingecko_id": "iostoken",
+      "name": "IOST",
+      "pair": "IOST/USDT"
+    },
+    {
+      "symbol": "IOTA",
+      "coingecko_id": "iota",
+      "name": "IOTA",
+      "pair": "IOTA/USDT"
+    },
+    {
+      "symbol": "IOTX",
+      "coingecko_id": "binance-peg-iotex",
+      "name": "Binance-Peg IoTeX",
+      "pair": "IOTX/USDT"
+    },
+    {
+      "symbol": "IRIS",
+      "coingecko_id": "i-r-i-s",
+      "name": "I.R.I.S",
+      "pair": "IRIS/USDT"
+    },
+    {
+      "symbol": "J",
+      "coingecko_id": "jambo",
+      "name": "Jambo",
+      "pair": "J/USDT"
+    },
+    {
+      "symbol": "JASMY",
+      "coingecko_id": "jasmycoin",
+      "name": "JasmyCoin",
+      "pair": "JASMY/USDT"
+    },
+    {
+      "symbol": "JOE",
+      "coingecko_id": "emotiguy",
+      "name": "EmotiGuy",
+      "pair": "JOE/USDT"
+    },
+    {
+      "symbol": "JST",
+      "coingecko_id": "just",
+      "name": "JUST",
+      "pair": "JST/USDT"
+    },
+    {
+      "symbol": "JTO",
+      "coingecko_id": "jito-governance-token",
+      "name": "Jito",
+      "pair": "JTO/USDT"
+    },
+    {
+      "symbol": "JUP",
+      "coingecko_id": "jupiter",
+      "name": "Jupiter Project",
+      "pair": "JUP/USDT"
+    },
+    {
+      "symbol": "JUV",
+      "coingecko_id": "juventus-fan-token",
+      "name": "Juventus Fan Token",
+      "pair": "JUV/USDT"
+    },
+    {
+      "symbol": "KAIA",
+      "coingecko_id": "illusive-ai",
+      "name": "Illusive AI",
+      "pair": "KAIA/USDT"
+    },
+    {
+      "symbol": "KAIO",
+      "coingecko_id": "kaio",
+      "name": "KAIO",
+      "pair": "KAIO/USDT"
+    },
+    {
+      "symbol": "KAITO",
+      "coingecko_id": "kaito",
+      "name": "KAITO",
+      "pair": "KAITO/USDT"
+    },
+    {
+      "symbol": "KAS",
+      "coingecko_id": "kaspa",
+      "name": "Kaspa",
+      "pair": "KAS/USDT"
+    },
+    {
+      "symbol": "KAT",
+      "coingecko_id": "karat",
+      "name": "Karat",
+      "pair": "KAT/USDT"
+    },
+    {
+      "symbol": "KAVA",
+      "coingecko_id": "kava",
+      "name": "Kava",
+      "pair": "KAVA/USDT"
+    },
+    {
+      "symbol": "KDA",
+      "coingecko_id": "kadena",
+      "name": "Kadena",
+      "pair": "KDA/USDT"
+    },
+    {
+      "symbol": "KERNEL",
+      "coingecko_id": "kernel-2",
+      "name": "KernelDAO",
+      "pair": "KERNEL/USDT"
+    },
+    {
+      "symbol": "KEY",
+      "coingecko_id": "key-2",
+      "name": "KEY",
+      "pair": "KEY/USDT"
+    },
+    {
+      "symbol": "KGEN",
+      "coingecko_id": "kgen",
+      "name": "KGeN",
+      "pair": "KGEN/USDT"
+    },
+    {
+      "symbol": "KIMA",
+      "coingecko_id": "kima",
+      "name": "Kima Network",
+      "pair": "KIMA/USDT"
+    },
+    {
+      "symbol": "KIP",
+      "coingecko_id": "kip",
+      "name": "KIP",
+      "pair": "KIP/USDT"
+    },
+    {
+      "symbol": "KITE",
+      "coingecko_id": "kite",
+      "name": "Kite",
+      "pair": "KITE/USDT"
+    },
+    {
+      "symbol": "KLAY",
+      "coingecko_id": "klay-token",
+      "name": "Klaytn",
+      "pair": "KLAY/USDT"
+    },
+    {
+      "symbol": "KMD",
+      "coingecko_id": "komodo",
+      "name": "Komodo",
+      "pair": "KMD/USDT"
+    },
+    {
+      "symbol": "KMNO",
+      "coingecko_id": "kamino",
+      "name": "Kamino",
+      "pair": "KMNO/USDT"
+    },
+    {
+      "symbol": "KNC",
+      "coingecko_id": "kyber-network-crystal",
+      "name": "Kyber Network Crystal",
+      "pair": "KNC/USDT"
+    },
+    {
+      "symbol": "KSM",
+      "coingecko_id": "kusama",
+      "name": "Kusama",
+      "pair": "KSM/USDT"
+    },
+    {
+      "symbol": "L3",
+      "coingecko_id": "layer3",
+      "name": "Layer3",
+      "pair": "L3/USDT"
+    },
+    {
+      "symbol": "LA",
+      "coingecko_id": "lagrange",
+      "name": "Lagrange",
+      "pair": "LA/USDT"
+    },
+    {
+      "symbol": "LAI",
+      "coingecko_id": "cryptogpt-token",
+      "name": "LayerAI",
+      "pair": "LAI/USDT"
+    },
+    {
+      "symbol": "LAND",
+      "coingecko_id": "land-bid",
+      "name": "Land Bid",
+      "pair": "LAND/USDT"
+    },
+    {
+      "symbol": "LAPTOP",
+      "coingecko_id": "hunter-biden-s-laptop-3",
+      "name": "Hunter Biden's Laptop",
+      "pair": "LAPTOP/USDT"
+    },
+    {
+      "symbol": "LAVA",
+      "coingecko_id": "lava-network",
+      "name": "Lava Network",
+      "pair": "LAVA/USDT"
+    },
+    {
+      "symbol": "LAYER",
+      "coingecko_id": "solayer",
+      "name": "Solayer",
+      "pair": "LAYER/USDT"
+    },
+    {
+      "symbol": "LAZIO",
+      "coingecko_id": "lazio-fan-token",
+      "name": "Lazio Fan Token",
+      "pair": "LAZIO/USDT"
+    },
+    {
+      "symbol": "LBR",
+      "coingecko_id": "libra-protocol",
+      "name": "Libra Protocol",
+      "pair": "LBR/USDT"
+    },
+    {
+      "symbol": "LDO",
+      "coingecko_id": "lido-dao",
+      "name": "Lido DAO",
+      "pair": "LDO/USDT"
+    },
+    {
+      "symbol": "LIME",
+      "coingecko_id": "ime-lab",
+      "name": "iMe Lab",
+      "pair": "LIME/USDT"
+    },
+    {
+      "symbol": "LINEA",
+      "coingecko_id": "linea",
+      "name": "Linea",
+      "pair": "LINEA/USDT"
+    },
+    {
+      "symbol": "LINGO",
+      "coingecko_id": "lingo",
+      "name": "Lingo",
+      "pair": "LINGO/USDT"
+    },
+    {
+      "symbol": "LINK",
+      "coingecko_id": "chainlink",
+      "name": "Chainlink",
+      "pair": "LINK/USDT"
+    },
+    {
+      "symbol": "LISTA",
+      "coingecko_id": "lista",
+      "name": "Lista DAO",
+      "pair": "LISTA/USDT"
+    },
+    {
+      "symbol": "LIT",
+      "coingecko_id": "lighter",
+      "name": "Lighter",
+      "pair": "LIT/USDT"
+    },
+    {
+      "symbol": "LKI",
+      "coingecko_id": "laika-ai",
+      "name": "Laika AI",
+      "pair": "LKI/USDT"
+    },
+    {
+      "symbol": "LL",
+      "coingecko_id": "lightlink",
+      "name": "LightLink",
+      "pair": "LL/USDT"
+    },
+    {
+      "symbol": "LMWR",
+      "coingecko_id": "limewire-token",
+      "name": "LimeWire",
+      "pair": "LMWR/USDT"
+    },
+    {
+      "symbol": "LOE",
+      "coingecko_id": "legends-of-elysium",
+      "name": "Legends of Elysium",
+      "pair": "LOE/USDT"
+    },
+    {
+      "symbol": "LOKA",
+      "coingecko_id": "league-of-kingdoms",
+      "name": "League of Kingdoms",
+      "pair": "LOKA/USDT"
+    },
+    {
+      "symbol": "LOOKS",
+      "coingecko_id": "looks-at-you",
+      "name": "Looks at you",
+      "pair": "LOOKS/USDT"
+    },
+    {
+      "symbol": "LOOM",
+      "coingecko_id": "loom-2",
+      "name": "Loom",
+      "pair": "LOOM/USDT"
+    },
+    {
+      "symbol": "LPT",
+      "coingecko_id": "livepeer",
+      "name": "Livepeer",
+      "pair": "LPT/USDT"
+    },
+    {
+      "symbol": "LQTY",
+      "coingecko_id": "liquity",
+      "name": "Liquity",
+      "pair": "LQTY/USDT"
+    },
+    {
+      "symbol": "LRC",
+      "coingecko_id": "loopring",
+      "name": "Loopring",
+      "pair": "LRC/USDT"
+    },
+    {
+      "symbol": "LSK",
+      "coingecko_id": "lisk",
+      "name": "Lisk",
+      "pair": "LSK/USDT"
+    },
+    {
+      "symbol": "LTC",
+      "coingecko_id": "binance-peg-litecoin",
+      "name": "Binance-Peg Litecoin",
+      "pair": "LTC/USDT"
+    },
+    {
+      "symbol": "LUMIA",
+      "coingecko_id": "lumia",
+      "name": "Lumia",
+      "pair": "LUMIA/USDT"
+    },
+    {
+      "symbol": "LUNA",
+      "coingecko_id": "luna-by-virtuals",
+      "name": "Luna by Virtuals",
+      "pair": "LUNA/USDT"
+    },
+    {
+      "symbol": "LUNC",
+      "coingecko_id": "luna-wormhole",
+      "name": "Terra Classic (Wormhole)",
+      "pair": "LUNC/USDT"
+    },
+    {
+      "symbol": "LUNR",
+      "coingecko_id": "intuitive-machines-robinhood-tokenized-stock",
+      "name": "Intuitive Machines \u2022 Robinhood Token",
+      "pair": "LUNR/USDT"
+    },
+    {
+      "symbol": "LVLY",
+      "coingecko_id": "lyvely",
+      "name": "Lyvely",
+      "pair": "LVLY/USDT"
+    },
+    {
+      "symbol": "LYNX",
+      "coingecko_id": "lynex",
+      "name": "Lynex",
+      "pair": "LYNX/USDT"
+    },
+    {
+      "symbol": "LYX",
+      "coingecko_id": "lukso-token-2",
+      "name": "LUKSO",
+      "pair": "LYX/USDT"
+    },
+    {
+      "symbol": "M",
+      "coingecko_id": "mantis",
+      "name": "Mantis",
+      "pair": "M/USDT"
+    },
+    {
+      "symbol": "MAGIC",
+      "coingecko_id": "magic",
+      "name": "Treasure",
+      "pair": "MAGIC/USDT"
+    },
+    {
+      "symbol": "MANA",
+      "coingecko_id": "decentraland",
+      "name": "Decentraland",
+      "pair": "MANA/USDT"
+    },
+    {
+      "symbol": "MANTA",
+      "coingecko_id": "manta-network",
+      "name": "Manta Network",
+      "pair": "MANTA/USDT"
+    },
+    {
+      "symbol": "MANTRA",
+      "coingecko_id": "mantra",
+      "name": "MANTRA",
+      "pair": "MANTRA/USDT"
+    },
+    {
+      "symbol": "MASK",
+      "coingecko_id": "catwifmask",
+      "name": "catwifmask",
+      "pair": "MASK/USDT"
+    },
+    {
+      "symbol": "MAT",
+      "coingecko_id": "matchain",
+      "name": "Matchain",
+      "pair": "MAT/USDT"
+    },
+    {
+      "symbol": "MAV",
+      "coingecko_id": "maverick-protocol",
+      "name": "Maverick Protocol",
+      "pair": "MAV/USDT"
+    },
+    {
+      "symbol": "MAVIA",
+      "coingecko_id": "heroes-of-mavia",
+      "name": "Heroes of Mavia",
+      "pair": "MAVIA/USDT"
+    },
+    {
+      "symbol": "MBG",
+      "coingecko_id": "mbg-by-multibank-group",
+      "name": "MBG By Multibank Group",
+      "pair": "MBG/USDT"
+    },
+    {
+      "symbol": "MBL",
+      "coingecko_id": "moviebloc",
+      "name": "MovieBloc",
+      "pair": "MBL/USDT"
+    },
+    {
+      "symbol": "MBOX",
+      "coingecko_id": "mobox",
+      "name": "Mobox",
+      "pair": "MBOX/USDT"
+    },
+    {
+      "symbol": "MC",
+      "coingecko_id": "magic-crystal",
+      "name": "Magic Crystal",
+      "pair": "MC/USDT"
+    },
+    {
+      "symbol": "MDT",
+      "coingecko_id": "measurable-data-token",
+      "name": "Measurable Data",
+      "pair": "MDT/USDT"
+    },
+    {
+      "symbol": "MDX",
+      "coingecko_id": "mdex-bsc",
+      "name": "Mdex (BSC)",
+      "pair": "MDX/USDT"
+    },
+    {
+      "symbol": "ME",
+      "coingecko_id": "literally-me",
+      "name": "Literally Me",
+      "pair": "ME/USDT"
+    },
+    {
+      "symbol": "MEGA",
+      "coingecko_id": "make-eth-great-again",
+      "name": "Make ETH Great Again",
+      "pair": "MEGA/USDT"
+    },
+    {
+      "symbol": "MELANIA",
+      "coingecko_id": "melania-meme",
+      "name": "Melania Meme",
+      "pair": "MELANIA/USDT"
+    },
+    {
+      "symbol": "MEME",
+      "coingecko_id": "1-meme-can-change-your-life",
+      "name": "1 meme can change your life",
+      "pair": "MEME/USDT"
+    },
+    {
+      "symbol": "MERL",
+      "coingecko_id": "merlin-chain",
+      "name": "Merlin Chain",
+      "pair": "MERL/USDT"
+    },
+    {
+      "symbol": "MET",
+      "coingecko_id": "meteora",
+      "name": "Meteora",
+      "pair": "MET/USDT"
+    },
+    {
+      "symbol": "METIS",
+      "coingecko_id": "medusa-metis",
+      "name": "Medusa",
+      "pair": "METIS/USDT"
+    },
+    {
+      "symbol": "MEW",
+      "coingecko_id": "cat-in-a-dogs-world",
+      "name": "cat in a dogs world",
+      "pair": "MEW/USDT"
+    },
+    {
+      "symbol": "MINA",
+      "coingecko_id": "mina-protocol",
+      "name": "Mina Protocol",
+      "pair": "MINA/USDT"
+    },
+    {
+      "symbol": "MIRA",
+      "coingecko_id": "mira-2",
+      "name": "Mira",
+      "pair": "MIRA/USDT"
+    },
+    {
+      "symbol": "MITO",
+      "coingecko_id": "mitosis",
+      "name": "Mitosis",
+      "pair": "MITO/USDT"
+    },
+    {
+      "symbol": "MKR",
+      "coingecko_id": "maker",
+      "name": "Maker",
+      "pair": "MKR/USDT"
+    },
+    {
+      "symbol": "MLC",
+      "coingecko_id": "my-lovely-coin",
+      "name": "My Lovely Coin",
+      "pair": "MLC/USDT"
+    },
+    {
+      "symbol": "MLN",
+      "coingecko_id": "melon",
+      "name": "Enzyme",
+      "pair": "MLN/USDT"
+    },
+    {
+      "symbol": "MMT",
+      "coingecko_id": "momentum-3",
+      "name": "Momentum",
+      "pair": "MMT/USDT"
+    },
+    {
+      "symbol": "MNT",
+      "coingecko_id": "mantle",
+      "name": "Mantle",
+      "pair": "MNT/USDT"
+    },
+    {
+      "symbol": "MOCA",
+      "coingecko_id": "mocaverse",
+      "name": "Moca Network",
+      "pair": "MOCA/USDT"
+    },
+    {
+      "symbol": "MOG",
+      "coingecko_id": "based-mog-coin",
+      "name": "Based Mog Coin",
+      "pair": "MOG/USDT"
+    },
+    {
+      "symbol": "MON",
+      "coingecko_id": "monad",
+      "name": "Monad",
+      "pair": "MON/USDT"
+    },
+    {
+      "symbol": "MOODENG",
+      "coingecko_id": "moo-deng",
+      "name": "Moo Deng",
+      "pair": "MOODENG/USDT"
+    },
+    {
+      "symbol": "MORPHO",
+      "coingecko_id": "morpho",
+      "name": "Morpho",
+      "pair": "MORPHO/USDT"
+    },
+    {
+      "symbol": "MOVE",
+      "coingecko_id": "moveapp",
+      "name": "MoveApp",
+      "pair": "MOVE/USDT"
+    },
+    {
+      "symbol": "MOVR",
+      "coingecko_id": "moonriver",
+      "name": "Moonriver",
+      "pair": "MOVR/USDT"
+    },
+    {
+      "symbol": "MPC",
+      "coingecko_id": "mp-materials-corp-coinbase-tokenized-stock",
+      "name": "MP Materials Corp. (Coinbase Tokenized Stock)",
+      "pair": "MPC/USDT"
+    },
+    {
+      "symbol": "MRSOON",
+      "coingecko_id": "tonstation",
+      "name": "TON Station",
+      "pair": "MRSOON/USDT"
+    },
+    {
+      "symbol": "MTL",
+      "coingecko_id": "metal",
+      "name": "Metal DAO",
+      "pair": "MTL/USDT"
+    },
+    {
+      "symbol": "MUBARAK",
+      "coingecko_id": "mubarak",
+      "name": "Mubarak",
+      "pair": "MUBARAK/USDT"
+    },
+    {
+      "symbol": "MXC",
+      "coingecko_id": "mxc",
+      "name": "MXC",
+      "pair": "MXC/USDT"
+    },
+    {
+      "symbol": "MYRO",
+      "coingecko_id": "myro",
+      "name": "MYRO",
+      "pair": "MYRO/USDT"
+    },
+    {
+      "symbol": "MYX",
+      "coingecko_id": "myx-finance",
+      "name": "MYX Finance",
+      "pair": "MYX/USDT"
+    },
+    {
+      "symbol": "NAKA",
+      "coingecko_id": "naka-go",
+      "name": "Naka Go",
+      "pair": "NAKA/USDT"
+    },
+    {
+      "symbol": "NAVX",
+      "coingecko_id": "navi",
+      "name": "NAVI Protocol",
+      "pair": "NAVX/USDT"
+    },
+    {
+      "symbol": "NEAR",
+      "coingecko_id": "binance-peg-near-protocol",
+      "name": "Binance-Peg NEAR Protocol",
+      "pair": "NEAR/USDT"
+    },
+    {
+      "symbol": "NEIRO",
+      "coingecko_id": "neiro",
+      "name": "Neiro",
+      "pair": "NEIRO/USDT"
+    },
+    {
+      "symbol": "NEO",
+      "coingecko_id": "neo",
+      "name": "NEO",
+      "pair": "NEO/USDT"
+    },
+    {
+      "symbol": "NES",
+      "coingecko_id": "nesa",
+      "name": "Nesa",
+      "pair": "NES/USDT"
+    },
+    {
+      "symbol": "NEWT",
+      "coingecko_id": "newton-protocol",
+      "name": "Newton Protocol",
+      "pair": "NEWT/USDT"
+    },
+    {
+      "symbol": "NEX",
+      "coingecko_id": "neon-exchange",
+      "name": "Nash",
+      "pair": "NEX/USDT"
+    },
+    {
+      "symbol": "NFP",
+      "coingecko_id": "nfprompt-token",
+      "name": "NFPrompt",
+      "pair": "NFP/USDT"
+    },
+    {
+      "symbol": "NFT",
+      "coingecko_id": "apenft",
+      "name": "AINFT",
+      "pair": "NFT/USDT"
+    },
+    {
+      "symbol": "NIGHT",
+      "coingecko_id": "midnight",
+      "name": "Midnight",
+      "pair": "NIGHT/USDT"
+    },
+    {
+      "symbol": "NIL",
+      "coingecko_id": "nillion",
+      "name": "Nillion",
+      "pair": "NIL/USDT"
+    },
+    {
+      "symbol": "NIM",
+      "coingecko_id": "nimiq-2",
+      "name": "Nimiq",
+      "pair": "NIM/USDT"
+    },
+    {
+      "symbol": "NKN",
+      "coingecko_id": "nkn",
+      "name": "NKN",
+      "pair": "NKN/USDT"
+    },
+    {
+      "symbol": "NMR",
+      "coingecko_id": "numeraire",
+      "name": "Numeraire",
+      "pair": "NMR/USDT"
+    },
+    {
+      "symbol": "NOM",
+      "coingecko_id": "nomad",
+      "name": "Nomad",
+      "pair": "NOM/USDT"
+    },
+    {
+      "symbol": "NOS",
+      "coingecko_id": "nosana",
+      "name": "Nosana",
+      "pair": "NOS/USDT"
+    },
+    {
+      "symbol": "NOTAI",
+      "coingecko_id": "notai",
+      "name": "NOTAI",
+      "pair": "NOTAI/USDT"
+    },
+    {
+      "symbol": "NPC",
+      "coingecko_id": "non-playable-character",
+      "name": "NON PLAYABLE CHARACTER",
+      "pair": "NPC/USDT"
+    },
+    {
+      "symbol": "NTRN",
+      "coingecko_id": "neutron-3",
+      "name": "Neutron",
+      "pair": "NTRN/USDT"
+    },
+    {
+      "symbol": "NXPC",
+      "coingecko_id": "bridged-nxpc",
+      "name": "Bridged NXPC",
+      "pair": "NXPC/USDT"
+    },
+    {
+      "symbol": "O4DX",
+      "coingecko_id": "orangedx",
+      "name": "OrangeDX",
+      "pair": "O4DX/USDT"
+    },
+    {
+      "symbol": "OBOL",
+      "coingecko_id": "obol-2",
+      "name": "Obol",
+      "pair": "OBOL/USDT"
+    },
+    {
+      "symbol": "OBT",
+      "coingecko_id": "orbiter-finance",
+      "name": "Orbiter Finance",
+      "pair": "OBT/USDT"
+    },
+    {
+      "symbol": "OCEAN",
+      "coingecko_id": "ocean-2",
+      "name": "OCEAN",
+      "pair": "OCEAN/USDT"
+    },
+    {
+      "symbol": "OFC",
+      "coingecko_id": "onefootball-club",
+      "name": "OneFootball Credits",
+      "pair": "OFC/USDT"
+    },
+    {
+      "symbol": "OGN",
+      "coingecko_id": "origin-protocol",
+      "name": "Origin Token",
+      "pair": "OGN/USDT"
+    },
+    {
+      "symbol": "OKB",
+      "coingecko_id": "okb",
+      "name": "OKB",
+      "pair": "OKB/USDT"
+    },
+    {
+      "symbol": "OL",
+      "coingecko_id": "open-loot",
+      "name": "OPENLOOT",
+      "pair": "OL/USDT"
+    },
+    {
+      "symbol": "OM",
+      "coingecko_id": "olympique-de-marseille-fan-token",
+      "name": "Olympique de Marseille Fan Token",
+      "pair": "OM/USDT"
+    },
+    {
+      "symbol": "OMG",
+      "coingecko_id": "oh-my-god",
+      "name": "OH MY GOD",
+      "pair": "OMG/USDT"
+    },
+    {
+      "symbol": "OMI",
+      "coingecko_id": "ecomi",
+      "name": "ECOMI",
+      "pair": "OMI/USDT"
+    },
+    {
+      "symbol": "OMNI",
+      "coingecko_id": "omni-2",
+      "name": "Omni",
+      "pair": "OMNI/USDT"
+    },
+    {
+      "symbol": "ONDO",
+      "coingecko_id": "ondo-finance",
+      "name": "Ondo",
+      "pair": "ONDO/USDT"
+    },
+    {
+      "symbol": "ONE",
+      "coingecko_id": "cross-2",
+      "name": "ONEchain",
+      "pair": "ONE/USDT"
+    },
+    {
+      "symbol": "ONT",
+      "coingecko_id": "binance-peg-ontology",
+      "name": "Binance-Peg Ontology",
+      "pair": "ONT/USDT"
+    },
+    {
+      "symbol": "OOB",
+      "coingecko_id": "oob",
+      "name": "Oob",
+      "pair": "OOB/USDT"
+    },
+    {
+      "symbol": "OP",
+      "coingecko_id": "one-path",
+      "name": "One Path",
+      "pair": "OP/USDT"
+    },
+    {
+      "symbol": "OPEN",
+      "coingecko_id": "open",
+      "name": "OPEN",
+      "pair": "OPEN/USDT"
+    },
+    {
+      "symbol": "OPG",
+      "coingecko_id": "opengradient",
+      "name": "OpenGradient",
+      "pair": "OPG/USDT"
+    },
+    {
+      "symbol": "ORAI",
+      "coingecko_id": "oraichain-token",
+      "name": "Oraichain",
+      "pair": "ORAI/USDT"
+    },
+    {
+      "symbol": "ORBS",
+      "coingecko_id": "orbitopia",
+      "name": "Orbitopia",
+      "pair": "ORBS/USDT"
+    },
+    {
+      "symbol": "ORCA",
+      "coingecko_id": "orca",
+      "name": "Orca",
+      "pair": "ORCA/USDT"
+    },
+    {
+      "symbol": "ORDER",
+      "coingecko_id": "order-3",
+      "name": "ORDER",
+      "pair": "ORDER/USDT"
+    },
+    {
+      "symbol": "ORDI",
+      "coingecko_id": "ordinals",
+      "name": "ORDI",
+      "pair": "ORDI/USDT"
+    },
+    {
+      "symbol": "ORN",
+      "coingecko_id": "orion-protocol",
+      "name": "Orion",
+      "pair": "ORN/USDT"
+    },
+    {
+      "symbol": "OSMO",
+      "coingecko_id": "osmosis",
+      "name": "Osmosis",
+      "pair": "OSMO/USDT"
+    },
+    {
+      "symbol": "OXT",
+      "coingecko_id": "orchid-protocol",
+      "name": "Orchid Protocol",
+      "pair": "OXT/USDT"
+    },
+    {
+      "symbol": "PAN",
+      "coingecko_id": "pandora-finance",
+      "name": "Pandora Finance",
+      "pair": "PAN/USDT"
+    },
+    {
+      "symbol": "PARTI",
+      "coingecko_id": "particle-network",
+      "name": "Particle Network",
+      "pair": "PARTI/USDT"
+    },
+    {
+      "symbol": "PDA",
+      "coingecko_id": "playdapp",
+      "name": "PlayDapp",
+      "pair": "PDA/USDT"
+    },
+    {
+      "symbol": "PEAQ",
+      "coingecko_id": "peaq-2",
+      "name": "peaq",
+      "pair": "PEAQ/USDT"
+    },
+    {
+      "symbol": "PENDLE",
+      "coingecko_id": "pendle",
+      "name": "Pendle",
+      "pair": "PENDLE/USDT"
+    },
+    {
+      "symbol": "PENGU",
+      "coingecko_id": "pudgy-penguins",
+      "name": "Pudgy Penguins",
+      "pair": "PENGU/USDT"
+    },
+    {
+      "symbol": "PENGUIN",
+      "coingecko_id": "nietzschean-penguin",
+      "name": "Nietzschean Penguin",
+      "pair": "PENGUIN/USDT"
+    },
+    {
+      "symbol": "PEOPLE",
+      "coingecko_id": "constitutiondao",
+      "name": "ConstitutionDAO",
+      "pair": "PEOPLE/USDT"
+    },
+    {
+      "symbol": "PEPE",
+      "coingecko_id": "baby-pepe-5",
+      "name": "BABY PEPE",
+      "pair": "PEPE/USDT"
+    },
+    {
+      "symbol": "PERP",
+      "coingecko_id": "perpetual-protocol",
+      "name": "Perpetual Protocol",
+      "pair": "PERP/USDT"
+    },
+    {
+      "symbol": "PHA",
+      "coingecko_id": "pha",
+      "name": "PHALA",
+      "pair": "PHA/USDT"
+    },
+    {
+      "symbol": "PHB",
+      "coingecko_id": "phoenix-global",
+      "name": "Phoenix",
+      "pair": "PHB/USDT"
+    },
+    {
+      "symbol": "PHIL",
+      "coingecko_id": "phil",
+      "name": "Phil",
+      "pair": "PHIL/USDT"
+    },
+    {
+      "symbol": "PI",
+      "coingecko_id": "3-141592653589793238462643383279",
+      "name": "3.141592653589793238462643383279",
+      "pair": "PI/USDT"
+    },
+    {
+      "symbol": "PIEVERSE",
+      "coingecko_id": "pieverse",
+      "name": "Pieverse",
+      "pair": "PIEVERSE/USDT"
+    },
+    {
+      "symbol": "PIRATE",
+      "coingecko_id": "piratecash",
+      "name": "PirateCash",
+      "pair": "PIRATE/USDT"
+    },
+    {
+      "symbol": "PIXEL",
+      "coingecko_id": "pixelcoin-fun",
+      "name": "pixelcoin.fun",
+      "pair": "PIXEL/USDT"
+    },
+    {
+      "symbol": "PIXFI",
+      "coingecko_id": "pixelverse-xyz",
+      "name": "Pixelverse",
+      "pair": "PIXFI/USDT"
+    },
+    {
+      "symbol": "PLUME",
+      "coingecko_id": "plume",
+      "name": "Plume",
+      "pair": "PLUME/USDT"
+    },
+    {
+      "symbol": "PNUT",
+      "coingecko_id": "peanut-3",
+      "name": "Peanut",
+      "pair": "PNUT/USDT"
+    },
+    {
+      "symbol": "POL",
+      "coingecko_id": "polygon-ecosystem-token",
+      "name": "POL (ex-MATIC)",
+      "pair": "POL/USDT"
+    },
+    {
+      "symbol": "POLS",
+      "coingecko_id": "polkastarter",
+      "name": "Polkastarter",
+      "pair": "POLS/USDT"
+    },
+    {
+      "symbol": "POLY",
+      "coingecko_id": "poly",
+      "name": "Poly",
+      "pair": "POLY/USDT"
+    },
+    {
+      "symbol": "POLYX",
+      "coingecko_id": "polymesh",
+      "name": "Polymesh",
+      "pair": "POLYX/USDT"
+    },
+    {
+      "symbol": "POND",
+      "coingecko_id": "marlin",
+      "name": "Marlin",
+      "pair": "POND/USDT"
+    },
+    {
+      "symbol": "PONKE",
+      "coingecko_id": "ponke",
+      "name": "PONKE",
+      "pair": "PONKE/USDT"
+    },
+    {
+      "symbol": "PONS",
+      "coingecko_id": "pons",
+      "name": "Pons",
+      "pair": "PONS/USDT"
+    },
+    {
+      "symbol": "POPCAT",
+      "coingecko_id": "popcat",
+      "name": "Popcat",
+      "pair": "POPCAT/USDT"
+    },
+    {
+      "symbol": "PORTAL",
+      "coingecko_id": "portal-2",
+      "name": "Portal",
+      "pair": "PORTAL/USDT"
+    },
+    {
+      "symbol": "PORTO",
+      "coingecko_id": "fc-porto",
+      "name": "FC Porto",
+      "pair": "PORTO/USDT"
+    },
+    {
+      "symbol": "POWR",
+      "coingecko_id": "power-ledger",
+      "name": "Powerledger",
+      "pair": "POWR/USDT"
+    },
+    {
+      "symbol": "PRIME",
+      "coingecko_id": "echelon-prime",
+      "name": "Echelon Prime",
+      "pair": "PRIME/USDT"
+    },
+    {
+      "symbol": "PRL",
+      "coingecko_id": "mimo-parallel-governance-token",
+      "name": "Parallel Governance",
+      "pair": "PRL/USDT"
+    },
+    {
+      "symbol": "PROM",
+      "coingecko_id": "prometeus",
+      "name": "Prom",
+      "pair": "PROM/USDT"
+    },
+    {
+      "symbol": "PROMPT",
+      "coingecko_id": "promptbidder",
+      "name": "PromptBidder",
+      "pair": "PROMPT/USDT"
+    },
+    {
+      "symbol": "PROVE",
+      "coingecko_id": "succinct",
+      "name": "Succinct",
+      "pair": "PROVE/USDT"
+    },
+    {
+      "symbol": "PSG",
+      "coingecko_id": "paris-saint-germain-fan-token",
+      "name": "Paris Saint-Germain Fan Token",
+      "pair": "PSG/USDT"
+    },
+    {
+      "symbol": "PTB",
+      "coingecko_id": "portal-to-bitcoin",
+      "name": "Portal to Bitcoin",
+      "pair": "PTB/USDT"
+    },
+    {
+      "symbol": "PUFFER",
+      "coingecko_id": "puffer-finance",
+      "name": "Puffer",
+      "pair": "PUFFER/USDT"
+    },
+    {
+      "symbol": "PUMP",
+      "coingecko_id": "big-pump",
+      "name": "Big Pump",
+      "pair": "PUMP/USDT"
+    },
+    {
+      "symbol": "PUNDIX",
+      "coingecko_id": "pundi-x-2",
+      "name": "Pundi X",
+      "pair": "PUNDIX/USDT"
+    },
+    {
+      "symbol": "PYR",
+      "coingecko_id": "vulcan-forged",
+      "name": "Vulcan Forged",
+      "pair": "PYR/USDT"
+    },
+    {
+      "symbol": "PYTH",
+      "coingecko_id": "pyth-network",
+      "name": "Pyth Network",
+      "pair": "PYTH/USDT"
+    },
+    {
+      "symbol": "QBX",
+      "coingecko_id": "qbx",
+      "name": "QBX",
+      "pair": "QBX/USDT"
+    },
+    {
+      "symbol": "QI",
+      "coingecko_id": "benqi",
+      "name": "BENQI",
+      "pair": "QI/USDT"
+    },
+    {
+      "symbol": "QNT",
+      "coingecko_id": "quant-network",
+      "name": "Quant",
+      "pair": "QNT/USDT"
+    },
+    {
+      "symbol": "QTUM",
+      "coingecko_id": "qtum",
+      "name": "Qtum",
+      "pair": "QTUM/USDT"
+    },
+    {
+      "symbol": "QUBIC",
+      "coingecko_id": "qubic-network",
+      "name": "Qubic",
+      "pair": "QUBIC/USDT"
+    },
+    {
+      "symbol": "QUICK",
+      "coingecko_id": "quick",
+      "name": "Quickswap [OLD]",
+      "pair": "QUICK/USDT"
+    },
+    {
+      "symbol": "RAD",
+      "coingecko_id": "radicle",
+      "name": "Radworks",
+      "pair": "RAD/USDT"
+    },
+    {
+      "symbol": "RARE",
+      "coingecko_id": "superrare",
+      "name": "SuperRare",
+      "pair": "RARE/USDT"
+    },
+    {
+      "symbol": "RAY",
+      "coingecko_id": "raydium",
+      "name": "Raydium",
+      "pair": "RAY/USDT"
+    },
+    {
+      "symbol": "RBNT",
+      "coingecko_id": "brookfield-wealth-solutions-ltd-rstock",
+      "name": "Brookfield Wealth Solutions Ltd. Tokenized Stock (Reality)",
+      "pair": "RBNT/USDT"
+    },
+    {
+      "symbol": "RDNT",
+      "coingecko_id": "radiant-capital",
+      "name": "Radiant Capital",
+      "pair": "RDNT/USDT"
+    },
+    {
+      "symbol": "RE",
+      "coingecko_id": "eni-s-p-a-rstock",
+      "name": "Eni SpA Tokenized Stock (Reality)",
+      "pair": "RE/USDT"
+    },
+    {
+      "symbol": "RED",
+      "coingecko_id": "consolidated-edison-inc-rstock",
+      "name": "Consolidated Edison Tokenized Stock (Reality)",
+      "pair": "RED/USDT"
+    },
+    {
+      "symbol": "REEF",
+      "coingecko_id": "reef",
+      "name": "Reef",
+      "pair": "REEF/USDT"
+    },
+    {
+      "symbol": "REI",
+      "coingecko_id": "rei-ai-by-virtuals",
+      "name": "REI AI by Virtuals",
+      "pair": "REI/USDT"
+    },
+    {
+      "symbol": "REN",
+      "coingecko_id": "republic-protocol",
+      "name": "Ren",
+      "pair": "REN/USDT"
+    },
+    {
+      "symbol": "RENDER",
+      "coingecko_id": "render-token",
+      "name": "Render",
+      "pair": "RENDER/USDT"
+    },
+    {
+      "symbol": "REP",
+      "coingecko_id": "augur",
+      "name": "Augur [OLD]",
+      "pair": "REP/USDT"
+    },
+    {
+      "symbol": "REQ",
+      "coingecko_id": "request-network",
+      "name": "Request",
+      "pair": "REQ/USDT"
+    },
+    {
+      "symbol": "REZ",
+      "coingecko_id": "renzo",
+      "name": "Renzo",
+      "pair": "REZ/USDT"
+    },
+    {
+      "symbol": "RFRM",
+      "coingecko_id": "reform-dao",
+      "name": "Reform DAO",
+      "pair": "RFRM/USDT"
+    },
+    {
+      "symbol": "RIF",
+      "coingecko_id": "rif-token",
+      "name": "Rootstock Infrastructure Framework",
+      "pair": "RIF/USDT"
+    },
+    {
+      "symbol": "RITE",
+      "coingecko_id": "ritestream",
+      "name": "ritestream",
+      "pair": "RITE/USDT"
+    },
+    {
+      "symbol": "RIZE",
+      "coingecko_id": "rize",
+      "name": "RIZE",
+      "pair": "RIZE/USDT"
+    },
+    {
+      "symbol": "RLC",
+      "coingecko_id": "iexec-rlc",
+      "name": "iExec RLC",
+      "pair": "RLC/USDT"
+    },
+    {
+      "symbol": "RLUSD",
+      "coingecko_id": "ripple-usd",
+      "name": "Ripple USD",
+      "pair": "RLUSD/USDT"
+    },
+    {
+      "symbol": "ROAM",
+      "coingecko_id": "roam-token",
+      "name": "ROAM Token",
+      "pair": "ROAM/USDT"
+    },
+    {
+      "symbol": "ROBO",
+      "coingecko_id": "robo",
+      "name": "ROBO",
+      "pair": "ROBO/USDT"
+    },
+    {
+      "symbol": "RONIN",
+      "coingecko_id": "ronin-2",
+      "name": "RONIN",
+      "pair": "RONIN/USDT"
+    },
+    {
+      "symbol": "ROSE",
+      "coingecko_id": "missrose",
+      "name": "MissRose",
+      "pair": "ROSE/USDT"
+    },
+    {
+      "symbol": "RPL",
+      "coingecko_id": "planet-labs-rstock",
+      "name": "Planet Labs Tokenized Stock (Reality)",
+      "pair": "RPL/USDT"
+    },
+    {
+      "symbol": "RSR",
+      "coingecko_id": "reserve-rights-token",
+      "name": "Reserve Rights",
+      "pair": "RSR/USDT"
+    },
+    {
+      "symbol": "RUNE",
+      "coingecko_id": "rune-2",
+      "name": "Rune",
+      "pair": "RUNE/USDT"
+    },
+    {
+      "symbol": "RVN",
+      "coingecko_id": "ravencoin",
+      "name": "Ravencoin",
+      "pair": "RVN/USDT"
+    },
+    {
+      "symbol": "RVV",
+      "coingecko_id": "astra-nova",
+      "name": "Astra Nova",
+      "pair": "RVV/USDT"
+    },
+    {
+      "symbol": "RWA",
+      "coingecko_id": "allo",
+      "name": "Allo",
+      "pair": "RWA/USDT"
+    },
+    {
+      "symbol": "RWS",
+      "coingecko_id": "real-world-services",
+      "name": "Real World Services",
+      "pair": "RWS/USDT"
+    },
+    {
+      "symbol": "S",
+      "coingecko_id": "agent-s",
+      "name": "Agent S",
+      "pair": "S/USDT"
+    },
+    {
+      "symbol": "SAFE",
+      "coingecko_id": "safe",
+      "name": "Safe",
+      "pair": "SAFE/USDT"
+    },
+    {
+      "symbol": "SAGA",
+      "coingecko_id": "saga-2",
+      "name": "Saga",
+      "pair": "SAGA/USDT"
+    },
+    {
+      "symbol": "SAHARA",
+      "coingecko_id": "sahara-ai",
+      "name": "Sahara AI",
+      "pair": "SAHARA/USDT"
+    },
+    {
+      "symbol": "SAMO",
+      "coingecko_id": "samoyedcoin",
+      "name": "Samoyedcoin",
+      "pair": "SAMO/USDT"
+    },
+    {
+      "symbol": "SAND",
+      "coingecko_id": "the-sandbox",
+      "name": "The Sandbox",
+      "pair": "SAND/USDT"
+    },
+    {
+      "symbol": "SANTOS",
+      "coingecko_id": "santos-fc-fan-token",
+      "name": "Santos FC Fan Token",
+      "pair": "SANTOS/USDT"
+    },
+    {
+      "symbol": "SAPIEN",
+      "coingecko_id": "sapien-2",
+      "name": "Sapien",
+      "pair": "SAPIEN/USDT"
+    },
+    {
+      "symbol": "SAROS",
+      "coingecko_id": "saros-finance",
+      "name": "Saros",
+      "pair": "SAROS/USDT"
+    },
+    {
+      "symbol": "SC",
+      "coingecko_id": "safecircle-2",
+      "name": "SafeCircle",
+      "pair": "SC/USDT"
+    },
+    {
+      "symbol": "SCR",
+      "coingecko_id": "score11",
+      "name": "Score11",
+      "pair": "SCR/USDT"
+    },
+    {
+      "symbol": "SCRT",
+      "coingecko_id": "secret",
+      "name": "Secret",
+      "pair": "SCRT/USDT"
+    },
+    {
+      "symbol": "SCX",
+      "coingecko_id": "scarcity",
+      "name": "Scarcity",
+      "pair": "SCX/USDT"
+    },
+    {
+      "symbol": "SD",
+      "coingecko_id": "shark-dog",
+      "name": "Shark Dog",
+      "pair": "SD/USDT"
+    },
+    {
+      "symbol": "SDM",
+      "coingecko_id": "shieldeum",
+      "name": "Shieldeum",
+      "pair": "SDM/USDT"
+    },
+    {
+      "symbol": "SEI",
+      "coingecko_id": "layerzero-bridged-sei",
+      "name": "LayerZero Bridged Sei",
+      "pair": "SEI/USDT"
+    },
+    {
+      "symbol": "SENT",
+      "coingecko_id": "sentient",
+      "name": "Sentient",
+      "pair": "SENT/USDT"
+    },
+    {
+      "symbol": "SERSH",
+      "coingecko_id": "serenity-shield",
+      "name": "Serenity",
+      "pair": "SERSH/USDT"
+    },
+    {
+      "symbol": "SFP",
+      "coingecko_id": "safepal",
+      "name": "SafePal",
+      "pair": "SFP/USDT"
+    },
+    {
+      "symbol": "SHELL",
+      "coingecko_id": "myshell",
+      "name": "MyShell",
+      "pair": "SHELL/USDT"
+    },
+    {
+      "symbol": "SHIB",
+      "coingecko_id": "binance-peg-shib",
+      "name": "Binance-Peg SHIB",
+      "pair": "SHIB/USDT"
+    },
+    {
+      "symbol": "SIDUS",
+      "coingecko_id": "sidus",
+      "name": "Sidus",
+      "pair": "SIDUS/USDT"
+    },
+    {
+      "symbol": "SIGN",
+      "coingecko_id": "sign-global",
+      "name": "Sign",
+      "pair": "SIGN/USDT"
+    },
+    {
+      "symbol": "SKL",
+      "coingecko_id": "skale",
+      "name": "SKALE",
+      "pair": "SKL/USDT"
+    },
+    {
+      "symbol": "SKR",
+      "coingecko_id": "saakuru-labs",
+      "name": "Saakuru",
+      "pair": "SKR/USDT"
+    },
+    {
+      "symbol": "SKY",
+      "coingecko_id": "darkcrypto-share",
+      "name": "DarkCrypto Share",
+      "pair": "SKY/USDT"
+    },
+    {
+      "symbol": "SLERF",
+      "coingecko_id": "slerf",
+      "name": "Slerf [OLD]",
+      "pair": "SLERF/USDT"
+    },
+    {
+      "symbol": "SLF",
+      "coingecko_id": "self-chain",
+      "name": "Self Chain",
+      "pair": "SLF/USDT"
+    },
+    {
+      "symbol": "SLN",
+      "coingecko_id": "smart-layer-network",
+      "name": "Smart Layer Network",
+      "pair": "SLN/USDT"
+    },
+    {
+      "symbol": "SLP",
+      "coingecko_id": "sivo-defi",
+      "name": "Sivo DeFi",
+      "pair": "SLP/USDT"
+    },
+    {
+      "symbol": "SLX",
+      "coingecko_id": "slimex",
+      "name": "Slimex",
+      "pair": "SLX/USDT"
+    },
+    {
+      "symbol": "SMR",
+      "coingecko_id": "nuscale-power-corporation-robinhood-token",
+      "name": "NuScale Power Corporation \u2022 Robinhood Token",
+      "pair": "SMR/USDT"
+    },
+    {
+      "symbol": "SNEK",
+      "coingecko_id": "based-snek",
+      "name": "BASED SNEK",
+      "pair": "SNEK/USDT"
+    },
+    {
+      "symbol": "SNT",
+      "coingecko_id": "status",
+      "name": "Status",
+      "pair": "SNT/USDT"
+    },
+    {
+      "symbol": "SNX",
+      "coingecko_id": "havven",
+      "name": "Synthetix",
+      "pair": "SNX/USDT"
+    },
+    {
+      "symbol": "SOIL",
+      "coingecko_id": "soil",
+      "name": "Soil",
+      "pair": "SOIL/USDT"
+    },
+    {
+      "symbol": "SOL",
+      "coingecko_id": "solana",
+      "name": "Solana",
+      "pair": "SOL/USDT"
+    },
+    {
+      "symbol": "SOLO",
+      "coingecko_id": "solo-coin",
+      "name": "Sologenic",
+      "pair": "SOLO/USDT"
+    },
+    {
+      "symbol": "SOLV",
+      "coingecko_id": "solv-protocol",
+      "name": "Solv Protocol",
+      "pair": "SOLV/USDT"
+    },
+    {
+      "symbol": "SOMI",
+      "coingecko_id": "somnia",
+      "name": "Somnia",
+      "pair": "SOMI/USDT"
+    },
+    {
+      "symbol": "SONIC",
+      "coingecko_id": "sonic-snipe-bot",
+      "name": "Sonic Snipe Bot",
+      "pair": "SONIC/USDT"
+    },
+    {
+      "symbol": "SOPH",
+      "coingecko_id": "sophiaverse",
+      "name": "SophiaVerse",
+      "pair": "SOPH/USDT"
+    },
+    {
+      "symbol": "SOSO",
+      "coingecko_id": "sosovalue",
+      "name": "SoSoValue",
+      "pair": "SOSO/USDT"
+    },
+    {
+      "symbol": "SPACE",
+      "coingecko_id": "microvisionchain",
+      "name": "MicrovisionChain",
+      "pair": "SPACE/USDT"
+    },
+    {
+      "symbol": "SPC",
+      "coingecko_id": "spacechain-erc-20",
+      "name": "SpaceChain (ERC-20)",
+      "pair": "SPC/USDT"
+    },
+    {
+      "symbol": "SPK",
+      "coingecko_id": "spark-2",
+      "name": "Spark",
+      "pair": "SPK/USDT"
+    },
+    {
+      "symbol": "SPX",
+      "coingecko_id": "shopinx",
+      "name": "ShopinX [OLD]",
+      "pair": "SPX/USDT"
+    },
+    {
+      "symbol": "SQD",
+      "coingecko_id": "subsquid",
+      "name": "SQD",
+      "pair": "SQD/USDT"
+    },
+    {
+      "symbol": "SQR",
+      "coingecko_id": "magic-square",
+      "name": "Magic Square",
+      "pair": "SQR/USDT"
+    },
+    {
+      "symbol": "SRM",
+      "coingecko_id": "serum",
+      "name": "Serum",
+      "pair": "SRM/USDT"
+    },
+    {
+      "symbol": "SSV",
+      "coingecko_id": "ssv-network",
+      "name": "SSV Network",
+      "pair": "SSV/USDT"
+    },
+    {
+      "symbol": "STBL",
+      "coingecko_id": "algostable",
+      "name": "AlgoStable",
+      "pair": "STBL/USDT"
+    },
+    {
+      "symbol": "STEEL",
+      "coingecko_id": "steel-2",
+      "name": "Steel",
+      "pair": "STEEL/USDT"
+    },
+    {
+      "symbol": "STEEM",
+      "coingecko_id": "steem",
+      "name": "Steem",
+      "pair": "STEEM/USDT"
+    },
+    {
+      "symbol": "STG",
+      "coingecko_id": "stargate-finance",
+      "name": "Stargate Finance",
+      "pair": "STG/USDT"
+    },
+    {
+      "symbol": "STMX",
+      "coingecko_id": "storm",
+      "name": "StormX",
+      "pair": "STMX/USDT"
+    },
+    {
+      "symbol": "STO",
+      "coingecko_id": "stakestone",
+      "name": "StakeStone",
+      "pair": "STO/USDT"
+    },
+    {
+      "symbol": "STONKBROKER",
+      "coingecko_id": "stonkbroker",
+      "name": "StonkBroker",
+      "pair": "STONKBROKER/USDT"
+    },
+    {
+      "symbol": "STORJ",
+      "coingecko_id": "storj",
+      "name": "Storj",
+      "pair": "STORJ/USDT"
+    },
+    {
+      "symbol": "STRAX",
+      "coingecko_id": "stratis",
+      "name": "Xertra",
+      "pair": "STRAX/USDT"
+    },
+    {
+      "symbol": "STRK",
+      "coingecko_id": "starknet",
+      "name": "Starknet",
+      "pair": "STRK/USDT"
+    },
+    {
+      "symbol": "STX",
+      "coingecko_id": "blockstack",
+      "name": "Stacks",
+      "pair": "STX/USDT"
+    },
+    {
+      "symbol": "SUI",
+      "coingecko_id": "sui",
+      "name": "Sui",
+      "pair": "SUI/USDT"
+    },
+    {
+      "symbol": "SUIAI",
+      "coingecko_id": "sui-agents",
+      "name": "SUI Agents",
+      "pair": "SUIAI/USDT"
+    },
+    {
+      "symbol": "SUN",
+      "coingecko_id": "sun-token",
+      "name": "Sun Token",
+      "pair": "SUN/USDT"
+    },
+    {
+      "symbol": "SUNDOG",
+      "coingecko_id": "sundog",
+      "name": "Sundog",
+      "pair": "SUNDOG/USDT"
+    },
+    {
+      "symbol": "SUPER",
+      "coingecko_id": "superclaw",
+      "name": "Superclaw",
+      "pair": "SUPER/USDT"
+    },
+    {
+      "symbol": "SUPRA",
+      "coingecko_id": "supra",
+      "name": "Supra",
+      "pair": "SUPRA/USDT"
+    },
+    {
+      "symbol": "SUSHI",
+      "coingecko_id": "sushi",
+      "name": "Sushi",
+      "pair": "SUSHI/USDT"
+    },
+    {
+      "symbol": "SWARMS",
+      "coingecko_id": "swarms",
+      "name": "Swarms",
+      "pair": "SWARMS/USDT"
+    },
+    {
+      "symbol": "SWEAT",
+      "coingecko_id": "sweatcoin",
+      "name": "SWEAT",
+      "pair": "SWEAT/USDT"
+    },
+    {
+      "symbol": "SWELL",
+      "coingecko_id": "layerzero-bridged-swell",
+      "name": "Layerzero Bridged Swell",
+      "pair": "SWELL/USDT"
+    },
+    {
+      "symbol": "SWFTC",
+      "coingecko_id": "swftcoin",
+      "name": "SWFTCOIN",
+      "pair": "SWFTC/USDT"
+    },
+    {
+      "symbol": "SXP",
+      "coingecko_id": "swipe",
+      "name": "Solar",
+      "pair": "SXP/USDT"
+    },
+    {
+      "symbol": "SXT",
+      "coingecko_id": "space-and-time",
+      "name": "Space and Time",
+      "pair": "SXT/USDT"
+    },
+    {
+      "symbol": "SYN",
+      "coingecko_id": "synapse-2",
+      "name": "Synapse",
+      "pair": "SYN/USDT"
+    },
+    {
+      "symbol": "SYND",
+      "coingecko_id": "syndicate-3",
+      "name": "Syndicate",
+      "pair": "SYND/USDT"
+    },
+    {
+      "symbol": "SYRUP",
+      "coingecko_id": "syrup",
+      "name": "Maple Finance",
+      "pair": "SYRUP/USDT"
+    },
+    {
+      "symbol": "SYS",
+      "coingecko_id": "syscoin",
+      "name": "Syscoin",
+      "pair": "SYS/USDT"
+    },
+    {
+      "symbol": "TAC",
+      "coingecko_id": "tac",
+      "name": "TAC",
+      "pair": "TAC/USDT"
+    },
+    {
+      "symbol": "TAG",
+      "coingecko_id": "tagger",
+      "name": "TAGGER",
+      "pair": "TAG/USDT"
+    },
+    {
+      "symbol": "TAI",
+      "coingecko_id": "tars-protocol",
+      "name": "TARS AI",
+      "pair": "TAI/USDT"
+    },
+    {
+      "symbol": "TAIKO",
+      "coingecko_id": "taiko",
+      "name": "Taiko",
+      "pair": "TAIKO/USDT"
+    },
+    {
+      "symbol": "TAO",
+      "coingecko_id": "bittensor",
+      "name": "Bittensor",
+      "pair": "TAO/USDT"
+    },
+    {
+      "symbol": "TEL",
+      "coingecko_id": "telcoin",
+      "name": "Telcoin [OLD]",
+      "pair": "TEL/USDT"
+    },
+    {
+      "symbol": "TFUEL",
+      "coingecko_id": "theta-fuel",
+      "name": "Theta Fuel",
+      "pair": "TFUEL/USDT"
+    },
+    {
+      "symbol": "TGBP",
+      "coingecko_id": "tokenised-gbp",
+      "name": "Tokenised GBP",
+      "pair": "TGBP/USDT"
+    },
+    {
+      "symbol": "TH",
+      "coingecko_id": "team-heretics-fan-token",
+      "name": "Team Heretics Fan Token",
+      "pair": "TH/USDT"
+    },
+    {
+      "symbol": "THE",
+      "coingecko_id": "the-coin",
+      "name": "the coin",
+      "pair": "THE/USDT"
+    },
+    {
+      "symbol": "THETA",
+      "coingecko_id": "theta-token",
+      "name": "Theta Network",
+      "pair": "THETA/USDT"
+    },
+    {
+      "symbol": "TIA",
+      "coingecko_id": "celestia",
+      "name": "Celestia",
+      "pair": "TIA/USDT"
+    },
+    {
+      "symbol": "TLM",
+      "coingecko_id": "alien-worlds",
+      "name": "Alien Worlds",
+      "pair": "TLM/USDT"
+    },
+    {
+      "symbol": "TMAI",
+      "coingecko_id": "token-metrics-ai",
+      "name": "Token Metrics AI [OLD]",
+      "pair": "TMAI/USDT"
+    },
+    {
+      "symbol": "TNSR",
+      "coingecko_id": "tensor",
+      "name": "Tensor",
+      "pair": "TNSR/USDT"
+    },
+    {
+      "symbol": "TOKEN",
+      "coingecko_id": "opentokens",
+      "name": "OpenTokens",
+      "pair": "TOKEN/USDT"
+    },
+    {
+      "symbol": "TOSHI",
+      "coingecko_id": "first-dog-to-buy-crypto",
+      "name": "First Dog to Buy Crypto",
+      "pair": "TOSHI/USDT"
+    },
+    {
+      "symbol": "TOWNS",
+      "coingecko_id": "towns",
+      "name": "Towns",
+      "pair": "TOWNS/USDT"
+    },
+    {
+      "symbol": "TRAC",
+      "coingecko_id": "origintrail",
+      "name": "OriginTrail",
+      "pair": "TRAC/USDT"
+    },
+    {
+      "symbol": "TRB",
+      "coingecko_id": "tellor",
+      "name": "Tellor Tributes",
+      "pair": "TRB/USDT"
+    },
+    {
+      "symbol": "TREE",
+      "coingecko_id": "thickquidity",
+      "name": "Thickquidity",
+      "pair": "TREE/USDT"
+    },
+    {
+      "symbol": "TRIA",
+      "coingecko_id": "tria",
+      "name": "TRIA",
+      "pair": "TRIA/USDT"
+    },
+    {
+      "symbol": "TRIO",
+      "coingecko_id": "maximus-trio",
+      "name": "Maximus TRIO",
+      "pair": "TRIO/USDT"
+    },
+    {
+      "symbol": "TROY",
+      "coingecko_id": "troy-2",
+      "name": "TROY",
+      "pair": "TROY/USDT"
+    },
+    {
+      "symbol": "TRU",
+      "coingecko_id": "truebit-protocol",
+      "name": "Truebit Protocol",
+      "pair": "TRU/USDT"
+    },
+    {
+      "symbol": "TRUMP",
+      "coingecko_id": "bridged-maga-wormhole",
+      "name": "Bridged MAGA (Wormhole)",
+      "pair": "TRUMP/USDT"
+    },
+    {
+      "symbol": "TRUST",
+      "coingecko_id": "intuition",
+      "name": "Intuition",
+      "pair": "TRUST/USDT"
+    },
+    {
+      "symbol": "TRX",
+      "coingecko_id": "solana-bridged-trx-solana",
+      "name": "Solana Bridged TRX (Solana)",
+      "pair": "TRX/USDT"
+    },
+    {
+      "symbol": "TT",
+      "coingecko_id": "metatdex",
+      "name": "TDEX Token",
+      "pair": "TT/USDT"
+    },
+    {
+      "symbol": "TURBO",
+      "coingecko_id": "based-turbo",
+      "name": "Based Turbo",
+      "pair": "TURBO/USDT"
+    },
+    {
+      "symbol": "TURTLE",
+      "coingecko_id": "against-all-odds",
+      "name": "Against All Odds",
+      "pair": "TURTLE/USDT"
+    },
+    {
+      "symbol": "TUT",
+      "coingecko_id": "tutorial",
+      "name": "Tutorial",
+      "pair": "TUT/USDT"
+    },
+    {
+      "symbol": "TVK",
+      "coingecko_id": "the-virtua-kolect",
+      "name": "Virtua",
+      "pair": "TVK/USDT"
+    },
+    {
+      "symbol": "TWT",
+      "coingecko_id": "trust-wallet-token",
+      "name": "Trust Wallet",
+      "pair": "TWT/USDT"
+    },
+    {
+      "symbol": "TX",
+      "coingecko_id": "at-t-xstock",
+      "name": "AT&T xStock",
+      "pair": "TX/USDT"
+    },
+    {
+      "symbol": "UAI",
+      "coingecko_id": "aimerica",
+      "name": "AIMERICA",
+      "pair": "UAI/USDT"
+    },
+    {
+      "symbol": "ULTI",
+      "coingecko_id": "ulti",
+      "name": "Ulti",
+      "pair": "ULTI/USDT"
+    },
+    {
+      "symbol": "UMA",
+      "coingecko_id": "uma",
+      "name": "UMA",
+      "pair": "UMA/USDT"
+    },
+    {
+      "symbol": "UNFI",
+      "coingecko_id": "unifi-protocol-dao",
+      "name": "Unifi Protocol DAO",
+      "pair": "UNFI/USDT"
+    },
+    {
+      "symbol": "UNI",
+      "coingecko_id": "linea-bridged-uni-linea",
+      "name": "Linea Bridged UNI (Linea)",
+      "pair": "UNI/USDT"
+    },
+    {
+      "symbol": "UNIT0",
+      "coingecko_id": "unit0",
+      "name": "Unit0",
+      "pair": "UNIT0/USDT"
+    },
+    {
+      "symbol": "UP",
+      "coingecko_id": "doubleup",
+      "name": "DoubleUp",
+      "pair": "UP/USDT"
+    },
+    {
+      "symbol": "USDC",
+      "coingecko_id": "anubis-bridged-usdc-anubis",
+      "name": "Anubis Bridged USDC (Anubis)",
+      "pair": "USDC/USDT"
+    },
+    {
+      "symbol": "USDCV",
+      "coingecko_id": "usd-coinvertible",
+      "name": "USD CoinVertible",
+      "pair": "USDCV/USDT"
+    },
+    {
+      "symbol": "USDD",
+      "coingecko_id": "usdd",
+      "name": "USDD",
+      "pair": "USDD/USDT"
+    },
+    {
+      "symbol": "USDG",
+      "coingecko_id": "global-dollar",
+      "name": "Global Dollar",
+      "pair": "USDG/USDT"
+    },
+    {
+      "symbol": "USDQ",
+      "coingecko_id": "quantoz-usdq",
+      "name": "Quantoz USDQ",
+      "pair": "USDQ/USDT"
+    },
+    {
+      "symbol": "USDT",
+      "coingecko_id": "abstract-bridged-usdt-abstract",
+      "name": "Abstract Bridged USDT (Abstract)",
+      "pair": "USDT/USDT"
+    },
+    {
+      "symbol": "USELESS",
+      "coingecko_id": "useless-3",
+      "name": "Useless Coin",
+      "pair": "USELESS/USDT"
+    },
+    {
+      "symbol": "UTK",
+      "coingecko_id": "unite-the-kingdom",
+      "name": "UNITE THE KINGDOM",
+      "pair": "UTK/USDT"
+    },
+    {
+      "symbol": "UXLINK",
+      "coingecko_id": "uxlink",
+      "name": "UXLINK",
+      "pair": "UXLINK/USDT"
+    },
+    {
+      "symbol": "VANA",
+      "coingecko_id": "vana",
+      "name": "Vana",
+      "pair": "VANA/USDT"
+    },
+    {
+      "symbol": "VANRY",
+      "coingecko_id": "vanar-chain",
+      "name": "Vanar Chain [OLD]",
+      "pair": "VANRY/USDT"
+    },
+    {
+      "symbol": "VC",
+      "coingecko_id": "venture-capitalist",
+      "name": "Venture Capitalist",
+      "pair": "VC/USDT"
+    },
+    {
+      "symbol": "VDA",
+      "coingecko_id": "verida",
+      "name": "Verida Token",
+      "pair": "VDA/USDT"
+    },
+    {
+      "symbol": "VELO",
+      "coingecko_id": "velo",
+      "name": "Velo",
+      "pair": "VELO/USDT"
+    },
+    {
+      "symbol": "VENOM",
+      "coingecko_id": "blue-scorpion-venom",
+      "name": "Blue Scorpion Venom",
+      "pair": "VENOM/USDT"
+    },
+    {
+      "symbol": "VET",
+      "coingecko_id": "vechain",
+      "name": "VeChain",
+      "pair": "VET/USDT"
+    },
+    {
+      "symbol": "VEXT",
+      "coingecko_id": "veloce-vext",
+      "name": "Veloce",
+      "pair": "VEXT/USDT"
+    },
+    {
+      "symbol": "VFY",
+      "coingecko_id": "zkverify",
+      "name": "zkVerify",
+      "pair": "VFY/USDT"
+    },
+    {
+      "symbol": "VIC",
+      "coingecko_id": "tomochain",
+      "name": "Viction",
+      "pair": "VIC/USDT"
+    },
+    {
+      "symbol": "VINE",
+      "coingecko_id": "do-it-for-the-vine",
+      "name": "Do it for the Vine",
+      "pair": "VINE/USDT"
+    },
+    {
+      "symbol": "VIRTUAL",
+      "coingecko_id": "virtual-protocol",
+      "name": "Virtuals Protocol",
+      "pair": "VIRTUAL/USDT"
+    },
+    {
+      "symbol": "VOXEL",
+      "coingecko_id": "voxelithic-protocol",
+      "name": "Voxelithic Protocol",
+      "pair": "VOXEL/USDT"
+    },
+    {
+      "symbol": "VRA",
+      "coingecko_id": "verasity",
+      "name": "Verasity",
+      "pair": "VRA/USDT"
+    },
+    {
+      "symbol": "VSN",
+      "coingecko_id": "vision-3",
+      "name": "Vision",
+      "pair": "VSN/USDT"
+    },
+    {
+      "symbol": "VTHO",
+      "coingecko_id": "vethor-token",
+      "name": "VeThor",
+      "pair": "VTHO/USDT"
+    },
+    {
+      "symbol": "VVV",
+      "coingecko_id": "venice-token",
+      "name": "Venice Token",
+      "pair": "VVV/USDT"
+    },
+    {
+      "symbol": "W",
+      "coingecko_id": "victorious",
+      "name": "Victorious",
+      "pair": "W/USDT"
+    },
+    {
+      "symbol": "WAL",
+      "coingecko_id": "walrus-2",
+      "name": "Walrus",
+      "pair": "WAL/USDT"
+    },
+    {
+      "symbol": "WAN",
+      "coingecko_id": "nong-wan",
+      "name": "\u0e19\u0e49\u0e2d\u0e07\u0e27\u0e31\u0e19 (Nong Wan)",
+      "pair": "WAN/USDT"
+    },
+    {
+      "symbol": "WAVES",
+      "coingecko_id": "waves",
+      "name": "Waves",
+      "pair": "WAVES/USDT"
+    },
+    {
+      "symbol": "WAXP",
+      "coingecko_id": "wax",
+      "name": "WAX",
+      "pair": "WAXP/USDT"
+    },
+    {
+      "symbol": "WCT",
+      "coingecko_id": "connect-token-wct",
+      "name": "WalletConnect Token",
+      "pair": "WCT/USDT"
+    },
+    {
+      "symbol": "WEMIX",
+      "coingecko_id": "wemix-token",
+      "name": "WEMIX",
+      "pair": "WEMIX/USDT"
+    },
+    {
+      "symbol": "WET",
+      "coingecko_id": "humidifi",
+      "name": "HumidiFi",
+      "pair": "WET/USDT"
+    },
+    {
+      "symbol": "WIF",
+      "coingecko_id": "dogwifcoin",
+      "name": "dogwifhat",
+      "pair": "WIF/USDT"
+    },
+    {
+      "symbol": "WIFI",
+      "coingecko_id": "iotube-bridged-wifi-iotex",
+      "name": "ioTube Bridged WIFI (IoTeX)",
+      "pair": "WIFI/USDT"
+    },
+    {
+      "symbol": "WIN",
+      "coingecko_id": "win-2",
+      "name": "WIN",
+      "pair": "WIN/USDT"
+    },
+    {
+      "symbol": "WLD",
+      "coingecko_id": "worldcoin-wld",
+      "name": "Worldcoin",
+      "pair": "WLD/USDT"
+    },
+    {
+      "symbol": "WLFI",
+      "coingecko_id": "stupid-world-liberty-financial",
+      "name": "Stupid World Liberty Financial",
+      "pair": "WLFI/USDT"
+    },
+    {
+      "symbol": "WMT",
+      "coingecko_id": "walmart-dinari-tokenized-stock",
+      "name": "Walmart (Dinari Tokenized Stock)",
+      "pair": "WMT/USDT"
+    },
+    {
+      "symbol": "WMTX",
+      "coingecko_id": "walmart-xstock",
+      "name": "Walmart xStock",
+      "pair": "WMTX/USDT"
+    },
+    {
+      "symbol": "WOD",
+      "coingecko_id": "world-of-dypians",
+      "name": "World of Dypians",
+      "pair": "WOD/USDT"
+    },
+    {
+      "symbol": "WOLF",
+      "coingecko_id": "landwolf",
+      "name": "LandWolf",
+      "pair": "WOLF/USDT"
+    },
+    {
+      "symbol": "WOO",
+      "coingecko_id": "woo",
+      "name": "\u30a6\u30fc",
+      "pair": "WOO/USDT"
+    },
+    {
+      "symbol": "WSDM",
+      "coingecko_id": "wisdomise",
+      "name": "Wisdomise AI",
+      "pair": "WSDM/USDT"
+    },
+    {
+      "symbol": "WSI",
+      "coingecko_id": "wesendit",
+      "name": "WeSendit",
+      "pair": "WSI/USDT"
+    },
+    {
+      "symbol": "XAI",
+      "coingecko_id": "sideshift-token",
+      "name": "SideShift",
+      "pair": "XAI/USDT"
+    },
+    {
+      "symbol": "XCAD",
+      "coingecko_id": "xcad-network",
+      "name": "XCAD Network",
+      "pair": "XCAD/USDT"
+    },
+    {
+      "symbol": "XCH",
+      "coingecko_id": "chia",
+      "name": "Chia",
+      "pair": "XCH/USDT"
+    },
+    {
+      "symbol": "XCN",
+      "coingecko_id": "chain-2",
+      "name": "Onyxcoin",
+      "pair": "XCN/USDT"
+    },
+    {
+      "symbol": "XDB",
+      "coingecko_id": "digitalbits",
+      "name": "XDB CHAIN",
+      "pair": "XDB/USDT"
+    },
+    {
+      "symbol": "XDC",
+      "coingecko_id": "xdce-crowd-sale",
+      "name": "XDC Network",
+      "pair": "XDC/USDT"
+    },
+    {
+      "symbol": "XEC",
+      "coingecko_id": "ecash",
+      "name": "eCash",
+      "pair": "XEC/USDT"
+    },
+    {
+      "symbol": "XEM",
+      "coingecko_id": "nem",
+      "name": "NEM",
+      "pair": "XEM/USDT"
+    },
+    {
+      "symbol": "XFI",
+      "coingecko_id": "crossfi-2",
+      "name": "CrossFi",
+      "pair": "XFI/USDT"
+    },
+    {
+      "symbol": "XLM",
+      "coingecko_id": "stellar",
+      "name": "Stellar",
+      "pair": "XLM/USDT"
+    },
+    {
+      "symbol": "XNO",
+      "coingecko_id": "nano",
+      "name": "Nano",
+      "pair": "XNO/USDT"
+    },
+    {
+      "symbol": "XNY",
+      "coingecko_id": "codatta",
+      "name": "Codatta",
+      "pair": "XNY/USDT"
+    },
+    {
+      "symbol": "XPL",
+      "coingecko_id": "plasma",
+      "name": "Plasma",
+      "pair": "XPL/USDT"
+    },
+    {
+      "symbol": "XRD",
+      "coingecko_id": "radix",
+      "name": "Radix",
+      "pair": "XRD/USDT"
+    },
+    {
+      "symbol": "XRP",
+      "coingecko_id": "binance-peg-xrp",
+      "name": "Binance-Peg XRP",
+      "pair": "XRP/USDT"
+    },
+    {
+      "symbol": "XRT",
+      "coingecko_id": "robonomics-network",
+      "name": "Robonomics Network [OLD]",
+      "pair": "XRT/USDT"
+    },
+    {
+      "symbol": "XSWAP",
+      "coingecko_id": "xswap-2",
+      "name": "XSwap",
+      "pair": "XSWAP/USDT"
+    },
+    {
+      "symbol": "XTZ",
+      "coingecko_id": "binance-peg-tezos-token",
+      "name": "Binance-Peg Tezos Token",
+      "pair": "XTZ/USDT"
+    },
+    {
+      "symbol": "XVS",
+      "coingecko_id": "venus",
+      "name": "Venus",
+      "pair": "XVS/USDT"
+    },
+    {
+      "symbol": "XYM",
+      "coingecko_id": "symbol",
+      "name": "Symbol",
+      "pair": "XYM/USDT"
+    },
+    {
+      "symbol": "XYO",
+      "coingecko_id": "xyo-network",
+      "name": "XYO Network",
+      "pair": "XYO/USDT"
+    },
+    {
+      "symbol": "YB",
+      "coingecko_id": "yield-basis",
+      "name": "Yield Basis",
+      "pair": "YB/USDT"
+    },
+    {
+      "symbol": "YFI",
+      "coingecko_id": "yearn-finance",
+      "name": "yearn.finance",
+      "pair": "YFI/USDT"
+    },
+    {
+      "symbol": "YGG",
+      "coingecko_id": "yield-guild-games",
+      "name": "Yield Guild Games",
+      "pair": "YGG/USDT"
+    },
+    {
+      "symbol": "ZAMA",
+      "coingecko_id": "zama",
+      "name": "Zama",
+      "pair": "ZAMA/USDT"
+    },
+    {
+      "symbol": "ZBCN",
+      "coingecko_id": "zebec-network",
+      "name": "Zebec Network",
+      "pair": "ZBCN/USDT"
+    },
+    {
+      "symbol": "ZEC",
+      "coingecko_id": "binance-peg-zcash-token",
+      "name": "Binance-Peg ZEC",
+      "pair": "ZEC/USDT"
+    },
+    {
+      "symbol": "ZEN",
+      "coingecko_id": "zen-2",
+      "name": "ZEN",
+      "pair": "ZEN/USDT"
+    },
+    {
+      "symbol": "ZEREBRO",
+      "coingecko_id": "zerebro",
+      "name": "Zerebro",
+      "pair": "ZEREBRO/USDT"
+    },
+    {
+      "symbol": "ZERO",
+      "coingecko_id": "analysoor",
+      "name": "Analysoor",
+      "pair": "ZERO/USDT"
+    },
+    {
+      "symbol": "ZETA",
+      "coingecko_id": "zetachain",
+      "name": "ZetaChain",
+      "pair": "ZETA/USDT"
+    },
+    {
+      "symbol": "ZEUS",
+      "coingecko_id": "ansems-dog",
+      "name": "Ansems Dog",
+      "pair": "ZEUS/USDT"
+    },
+    {
+      "symbol": "ZIG",
+      "coingecko_id": "zignaly",
+      "name": "ZIG Finance",
+      "pair": "ZIG/USDT"
+    },
+    {
+      "symbol": "ZIL",
+      "coingecko_id": "zilliqa",
+      "name": "Zilliqa",
+      "pair": "ZIL/USDT"
+    },
+    {
+      "symbol": "ZK",
+      "coingecko_id": "zksync",
+      "name": "ZKsync",
+      "pair": "ZK/USDT"
+    },
+    {
+      "symbol": "ZKC",
+      "coingecko_id": "boundless",
+      "name": "Boundless",
+      "pair": "ZKC/USDT"
+    },
+    {
+      "symbol": "ZKP",
+      "coingecko_id": "panther",
+      "name": "Panther Protocol",
+      "pair": "ZKP/USDT"
+    },
+    {
+      "symbol": "ZORA",
+      "coingecko_id": "zora",
+      "name": "Zora",
+      "pair": "ZORA/USDT"
+    },
+    {
+      "symbol": "ZORO",
+      "coingecko_id": "zorobotics",
+      "name": "ZoRobotics",
+      "pair": "ZORO/USDT"
+    },
+    {
+      "symbol": "ZRC",
+      "coingecko_id": "zircuit",
+      "name": "Zircuit",
+      "pair": "ZRC/USDT"
+    },
+    {
+      "symbol": "ZRO",
+      "coingecko_id": "layerzero",
+      "name": "LayerZero",
+      "pair": "ZRO/USDT"
+    },
+    {
+      "symbol": "ZRX",
+      "coingecko_id": "0x",
+      "name": "0x Protocol",
+      "pair": "ZRX/USDT"
+    }
+  ],
+  "refreshed_at_utc": "2026-11-04T00:14:58.413881+00:00",
+  "asset_count": 793,
+  "bitpanda_listed_unmapped_symbols": [
+    "ADA2L",
+    "AIAGENT",
+    "AITECH",
+    "AKRO",
+    "ALGO2L",
+    "APE2L",
+    "AUGUR",
+    "AVAX2L",
+    "BCH2L",
+    "BCI10",
+    "BCI25",
+    "BCI5",
+    "BCIDL",
+    "BCIIL",
+    "BCIMEME",
+    "BCIML",
+    "BCISL",
+    "BCIUSA",
+    "BEAMX",
+    "BNB2L",
+    "BOME2L",
+    "BONK2L",
+    "BTC1S",
+    "BTC2L",
+    "CHAPZ",
+    "CHZ2L",
+    "CROSS",
+    "CTXC",
+    "DATAIP",
+    "DOGE2L",
+    "DOT2L",
+    "ETH1S",
+    "ETH2L",
+    "EUROC",
+    "EXVG",
+    "FLOKI2L",
+    "FRBK",
+    "FXS",
+    "GENSYN",
+    "GRT2L",
+    "HPOS10I",
+    "IGU",
+    "INJ2L",
+    "IP",
+    "JASMY2L",
+    "LEVER",
+    "LGCT",
+    "LIGHTER",
+    "LINA",
+    "LINK2L",
+    "LTC2L",
+    "MIOTA",
+    "MSN",
+    "NEAR2L",
+    "NEIROCTO",
+    "NULS",
+    "OAX",
+    "ONDOAI",
+    "ORFY",
+    "PEPE2L",
+    "PLA",
+    "POL2L",
+    "QUICKNEW",
+    "REACH",
+    "RENDER2L",
+    "RWAINC",
+    "SHIB2L",
+    "SLERF2",
+    "SOL1S",
+    "SOL2L",
+    "SOONSVM",
+    "STPT",
+    "SYNT",
+    "TOMO",
+    "TRUMP2L",
+    "TRX2L",
+    "TURBO2L",
+    "VELODROME",
+    "VIA",
+    "WIF2L",
+    "WLD2L",
+    "WLTH",
+    "XLM2L",
+    "XRP2L",
+    "ZKSYNC"
+  ],
+  "notes": "Universe = Bitpanda-tradable cryptocurrencies. Source: public Bitpanda ticker (https://api.bitpanda.com/v1/ticker, no API key). Metals (XAU/XAG/XPD/XPT) excluded. Crypto membership confirmed by symbol match against CoinGecko /coins/list. Leveraged/index products without CoinGecko id remain listed under bitpanda_listed_unmapped_symbols. Prices for scan/analysis come from CoinGecko/Binance free APIs \u2014 no Bitpanda orders."
+}

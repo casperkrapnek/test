@@ -1,0 +1,164 @@
+{
+  "run_ts_vienna": "2026-11-04T01:18:43.102609+01:00",
+  "universe_count": 793,
+  "bitpanda_market_overlap": 125,
+  "focus_pairs": [
+    "BTC/USDT",
+    "ETH/USDT",
+    "SOL/USDT",
+    "NEAR/USDT",
+    "XRP/USDT",
+    "ZEC/USDT",
+    "HYPE/USDT",
+    "ENA/USDT"
+  ],
+  "signals": [
+    {
+      "pair": "BTC/USDT",
+      "action": "HOLD",
+      "strength": 0.1,
+      "reason": "no edge (buy=0.10, sell=0.00, rsi=37.5)",
+      "price": 77284.0
+    },
+    {
+      "pair": "ETH/USDT",
+      "action": "HOLD",
+      "strength": 0.1,
+      "reason": "no edge (buy=0.10, sell=0.00, rsi=36.2)",
+      "price": 2272.22
+    },
+    {
+      "pair": "SOL/USDT",
+      "action": "HOLD",
+      "strength": 0.35,
+      "reason": "no edge (buy=0.35, sell=0.00, rsi=28.1)",
+      "price": 92.48
+    },
+    {
+      "pair": "NEAR/USDT",
+      "action": "HOLD",
+      "strength": 0.1,
+      "reason": "no edge (buy=0.10, sell=0.00, rsi=39.0)",
+      "price": 3.831
+    },
+    {
+      "pair": "XRP/USDT",
+      "action": "HOLD",
+      "strength": 0.35,
+      "reason": "no edge (buy=0.35, sell=0.00, rsi=41.8)",
+      "price": 1.2721
+    },
+    {
+      "pair": "ZEC/USDT",
+      "action": "HOLD",
+      "strength": 0.25,
+      "reason": "no edge (buy=0.25, sell=0.00, rsi=48.3)",
+      "price": 1213.81
+    },
+    {
+      "pair": "HYPE/USDT",
+      "action": "HOLD",
+      "strength": 0.15,
+      "reason": "no edge (buy=0.15, sell=0.00, rsi=52.3)",
+      "price": 84.82
+    },
+    {
+      "pair": "ENA/USDT",
+      "action": "HOLD",
+      "strength": 0.1,
+      "reason": "no edge (buy=0.10, sell=0.00, rsi=40.0)",
+      "price": 0.1732
+    }
+  ],
+  "suggestions": [
+    {
+      "pair": "BTC/USDT",
+      "action": "BUY",
+      "strength": 0.55,
+      "reason": "Kern-Holding Bitpanda-Kontext (Fallback)",
+      "price": 77284.0,
+      "stake_eur": 31.62
+    },
+    {
+      "pair": "ETH/USDT",
+      "action": "BUY",
+      "strength": 0.55,
+      "reason": "Kern-Holding Bitpanda-Kontext (Fallback)",
+      "price": 2272.22,
+      "stake_eur": 31.62
+    },
+    {
+      "pair": "SOL/USDT",
+      "action": "BUY",
+      "strength": 0.5,
+      "reason": "Top Opportunity im Bitpanda-Scan (Fallback)",
+      "price": 92.48,
+      "stake_eur": 28.76
+    }
+  ],
+  "portfolio": {
+    "starting_cash": 100.0,
+    "cash": 7.999999999999989,
+    "equity": 100.0,
+    "total_pnl": 0.0,
+    "total_pnl_pct": 0.0,
+    "unrealized_pnl": 3.552713678800501e-15,
+    "open_positions": [
+      {
+        "pair": "BTC/USDT",
+        "quantity": 0.0004091403136483619,
+        "avg_entry": 77284.0,
+        "cost_basis_quote": 31.62
+      },
+      {
+        "pair": "ETH/USDT",
+        "quantity": 0.013915906030225949,
+        "avg_entry": 2272.22,
+        "cost_basis_quote": 31.62
+      },
+      {
+        "pair": "SOL/USDT",
+        "quantity": 0.3109861591695502,
+        "avg_entry": 92.48,
+        "cost_basis_quote": 28.76
+      }
+    ],
+    "n_trades": 3,
+    "quote_currency": "EUR",
+    "exchange_context": "bitpanda-paper",
+    "simulation_only": true
+  },
+  "trades": [
+    {
+      "ts": "2026-11-04T01:18:43.102609+01:00",
+      "side": "BUY",
+      "pair": "BTC/USDT",
+      "price": 77284.0,
+      "quantity": 0.0004091403136483619,
+      "stake_quote": 31.62,
+      "reason": "Kern-Holding Bitpanda-Kontext (Fallback)",
+      "simulation": true
+    },
+    {
+      "ts": "2026-11-04T01:18:43.102609+01:00",
+      "side": "BUY",
+      "pair": "ETH/USDT",
+      "price": 2272.22,
+      "quantity": 0.013915906030225949,
+      "stake_quote": 31.62,
+      "reason": "Kern-Holding Bitpanda-Kontext (Fallback)",
+      "simulation": true
+    },
+    {
+      "ts": "2026-11-04T01:18:43.102609+01:00",
+      "side": "BUY",
+      "pair": "SOL/USDT",
+      "price": 92.48,
+      "quantity": 0.3109861591695502,
+      "stake_quote": 28.76,
+      "reason": "Top Opportunity im Bitpanda-Scan (Fallback)",
+      "simulation": true
+    }
+  ],
+  "simulation_only": true
+}
