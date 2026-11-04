@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Data & reports (keep structure; ignore heavy downloads)
+data/market/*
+!data/market/.gitkeep
+reports/*
+!reports/.gitkeep
+!reports/demo_run.json
+!reports/krypto-paper-trades-100eur.pdf
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Secrets
+.env
+*.key
